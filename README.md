@@ -62,14 +62,14 @@ I am a systems thinker, which helps me when creating architecture. In my spare t
 Work Experience
 ---------------
 
-### Operation Mobilization
+### [MediaWorks](https://mediaworks.global/)
 
 *Nov 2020 - Present | 3 years 1 month*
 
 **Software Engineer, Application Architect:**
 
 -   Worked on a visionary product, a multi-channel media app builder, and media catalog utilizing Deno, Apache Lucene, Apache Jena, etc.
--   Building Open Source tools like [Bundled Media](https://bundled.media), a real-time gateway to media from various sources, allowing SPARQL query on top of real time proxied API data.
+-   Building Open Source tools like Bundled Media, a real-time gateway to media from various sources, allowing SPARQL query on top of real time proxied API data.
 -   Created NPM packages: bcp47-picker and @om-mediaworks/shacl-form.
 -   Infrastructure as code (Pulumi, Kubernetes, Terraform, Docker)
 -   Backend (Deno, Node.js)
@@ -79,7 +79,7 @@ Work Experience
 
 * * * * *
 
-### Fundaments
+### [Fundaments](https://fundaments.nl/)
 
 *Jun 2018 - Oct 2020 | 2 years 5 months*
 
@@ -92,7 +92,7 @@ Work Experience
 
 * * * * *
 
-### Fonkel
+### [Fonkel](https://www.fonkel.io/)
 
 *Oct 2012 - May 2018 | 5 years 8 months*
 
@@ -106,7 +106,7 @@ Work Experience
 
 * * * * *
 
-### GoalGorilla
+### [GoalGorilla](https://www.getopensocial.com/)
 
 *Dec 2010 - Sep 2012 | 1 year 10 months*
 
@@ -149,7 +149,7 @@ I like to give talks at meetups.
 
 *2010 - 2012:*
 -   DrupalJam: Open Social
--   DrupalJam: All Your Features Are Belong to Us
+-   DrupalJam: all your base are belong to git
 
 
 Code references
