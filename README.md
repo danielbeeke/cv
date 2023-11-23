@@ -30,7 +30,7 @@ Summary
 -   **Agile Methodologies:** Scrum, Kanban, Design Sprints
 -   **Infrastructure as Code:** Terraform, Docker, Kubernetes, Pulumi
 -   **Testing:** Cypress, Mocha, PlayWright, Test Driven Development
--   **Frameworks** NextJS, Qwik, Turbo, Drupal, React, Vue
+-   **Frameworks** NextJS, Express, Symfony, Qwik, Turbo, Drupal, React, Vue
 -   **CI/CD:** GitLab, Jenkins, Atlassian Software, GitHub
 -   **Databases** Apache Jena, MongoDB, MariaDB, PostgreSQL, InfluxDB, SQLite
 -   **Linux:** 19 years experience (Ubuntu workstation, Debian, CentOS server-side)
@@ -71,7 +71,7 @@ Work Experience
 -   Worked on a visionary product, a multi-channel media app builder, and media catalog utilizing Deno, Apache Lucene, Apache Jena, etc.
 -   Building Open Source tools like [Bundled Media](https://bundled.media), a real-time gateway to media from various sources, allowing SPARQL query on top of real time proxied API data.
 -   Created NPM packages: bcp47-picker and @om-mediaworks/shacl-form.
--   Extensive experience in infrastructure as code (Pulumi, Kubernetes, Terraform, Docker)
+-   Infrastructure as code (Pulumi, Kubernetes, Terraform, Docker)
 -   Backend (Deno, Node.js)
 -   Frontend (React, offline PWA, Fluent interfaces).
 -   Proficient in testing with PlayWright, Cypress, Jest, and Deno test suite.
@@ -88,7 +88,7 @@ Work Experience
 -   Rewrote the customer and engineer portal for Oxilion and Fundaments, a multi-tenant solution.
 -   Deep integration with ExactOnline, consolidating various financial ledgers.
 -   Integrated over 20 API integrations for hosting products such as virtual data centers, VPS, DNS, hosting packages, Cloud backup systems, etc.
--   Worked on a analytics product to make it possible to bill virtual data center per minute.
+-   Created an analytics product to make it possible to bill virtual data center per minute.
 
 * * * * *
 
@@ -100,7 +100,8 @@ Work Experience
 
 -   Led a team of 3 to 6 developers in creating various Drupal and JavaScript applications, including interactive geographic maps and content-heavy multilingual Drupal sites.
 -   Worked with the Dutch Tax Ministry on prototyping and implementing a tool for insights into people and organizations from various sources. This tool is used by more than 5 departments of the Dutch Tax Ministry.
--   Contributed to Open Source modules on Drupal.org.
+- Created various Drupal modules and published those to drupal.org.
+- Did various design sprints, one was for a startup in the aviation industry, I love doing those.
 
 * * * * *
 
@@ -110,9 +111,10 @@ Work Experience
 
 **Drupal Developer:**
 
--   Worked on interactive web map for Nedap and worked on the first version of Open Social, the social intranet used by GreenPeace.
--   Conducted a course for GreenPeace staff on community management in Open Social.
-- Made various websites and applications with Drupal 6 and 7
+- Worked on the first version of Open Social, the social intranet used by GreenPeace.
+- Worked on interactive web map for Nedap.
+- Created various Drupal modules and published those to drupal.org
+- Made various websites and applications with Drupal 6 and 7.
 * * * * *
 
 ### Freelance
@@ -130,6 +132,8 @@ Study
 
 Talks
 -----
+
+I like to give talks at meetups.
 
 *2022 - 2023:*
 -   Biblica: Working Better Together
