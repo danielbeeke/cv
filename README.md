@@ -143,7 +143,7 @@ I like to give talks at meetups.
 -   ViennaJS: [Fluent Interfaces](https://www.youtube.com/watch?v=5e2xpsAzYNI) / [slides](https://danielbeeke.nl/fluent-interfaces/)
 
 *2012 - 2018:*
--   UtrechtJS: OpenGroup
+-   UtrechtJS: OpenGroup [slides](http://danielbeeke.nl/presentation-utrechtjs-20)
 -   DrupalJam: Everything is a ViewMode / [slides](https://danielbeeke.nl/everything-is-a-viewmode/)
 -   Enschede Drupal Meetup: Interactive Web Maps
 
