@@ -85,10 +85,10 @@ Work Experience
 
 **Software Engineer, Application Architect:**
 
--   Rewrote the customer and engineer portal for Oxilion and Fundaments, a multi-tenant solution.
+-   Rewrote the customer and engineer portal for Oxilion and Fundaments, a multi-tenant solution. This included a migrating all the technical data from various systems into one. 
 -   Deep integration with ExactOnline, consolidating various financial ledgers.
 -   Integrated over 20 API integrations for hosting products such as virtual data centers, VPS, DNS, hosting packages, Cloud backup systems, etc.
--   Created an analytics product to make it possible to bill virtual data center per minute.
+-   Created an analytics product to make it possible to bill virtual data center per minute, used InfluxDB for this.
 
 * * * * *
 
@@ -101,7 +101,8 @@ Work Experience
 -   Led a team of 3 to 6 developers in creating various Drupal and JavaScript applications, including interactive geographic maps and content-heavy multilingual Drupal sites.
 -   Worked with the Dutch Tax Ministry on prototyping and implementing a tool for insights into people and organizations from various sources. This tool is used by more than 5 departments of the Dutch Tax Ministry.
 - Created various Drupal modules and published those to drupal.org.
-- Did various design sprints, one was for a startup in the aviation industry, I love doing those.
+- Created a calculation tool for the Dutch carpentry branch to draw and then calculate the warmth loss of wooden panels, doors and windows. This was done together with a person who understood all the technical details from the carpentry perspective and one other programmer.
+- Did various design sprints, one was for a startup in the aviation industry and one for the Dutch Tax ministry.
 
 * * * * *
 
