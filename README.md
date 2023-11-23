@@ -1,4 +1,4 @@
-CV Daniël Beeke
+CV Daniël Beeke, Software Engineer
 ===============
 
 -   **Age:** 33 years (07-01-1990)
@@ -63,7 +63,7 @@ Work Experience
 
 ### Operation Mobilization
 
-**Nov 2020 - Present | 3 years 1 month**
+*Nov 2020 - Present | 3 years 1 month*
 
 **Software Engineer, Application Architect:**
 
@@ -80,7 +80,7 @@ Work Experience
 
 ### Fundaments
 
-**Jun 2018 - Oct 2020 | 2 years 5 months**
+*Jun 2018 - Oct 2020 | 2 years 5 months*
 
 **Software Engineer, Application Architect:**
 
@@ -93,7 +93,7 @@ Work Experience
 
 ### Fonkel
 
-**Oct 2012 - May 2018 | 5 years 8 months**
+*Oct 2012 - May 2018 | 5 years 8 months*
 
 **Drupal Developer, Team Lead:**
 
@@ -105,18 +105,18 @@ Work Experience
 
 ### GoalGorilla
 
-**Dec 2010 - Sep 2012 | 1 year 10 months**
+*Dec 2010 - Sep 2012 | 1 year 10 months*
 
 **Drupal Developer:**
 
 -   Worked on interactive web map for Nedap and worked on the first version of Open Social, the social intranet used by GreenPeace.
--   Conducted a course for GreenPeace staff on community management.
+-   Conducted a course for GreenPeace staff on community management in Open Social.
 - Made various websites and applications with Drupal 6 and 7
 * * * * *
 
 ### Freelance
 
-**2008 - 2010**
+*2008 - 2010*
 
 **Drupal Developer:**
 
@@ -130,20 +130,19 @@ Study
 Talks
 -----
 
--   **2022 - 2023:**
+*2022 - 2023:*
+-   Biblica: Working Better Together
+-   ViennaJS: Querying Wikipedia for Real Influencers
+-   ViennaJS: Fluent Interfaces
 
-    -   Biblica: Working Better Together
-    -   ViennaJS: Querying Wikipedia for Real Influencers
-    -   ViennaJS: Fluent Interfaces
--   **2012 - 2018:**
+*2012 - 2018:*
+-   UtrechtJS: OpenGroup
+-   DrupalJam: Everything is a ViewMode
+-   Enschede Drupal Meetup: Interactive Web Maps
 
-    -   UtrechtJS: OpenGroup
-    -   DrupalJam: Everything is a ViewMode
-    -   Enschede Drupal Meetup: Interactive Web Maps
--   **2010 - 2012:**
-
-    -   DrupalJam: Open Social
-    -   DrupalJam: All Your Features Are Belong to Us
+*2010 - 2012:*
+-   DrupalJam: Open Social
+-   DrupalJam: All Your Features Are Belong to Us
 
 
 Code references
