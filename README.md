@@ -144,7 +144,7 @@ I like to give talks at meetups.
 
 *2012 - 2018:*
 -   UtrechtJS: OpenGroup
--   DrupalJam: Everything is a ViewMode
+-   DrupalJam: Everything is a ViewMode / [slides](https://danielbeeke.nl/everything-is-a-viewmode/)
 -   Enschede Drupal Meetup: Interactive Web Maps
 
 *2010 - 2012:*
