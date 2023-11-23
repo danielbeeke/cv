@@ -17,7 +17,7 @@ Contact
 -------------------------
 
 -   **Email:** [mail@danielbeeke.nl](mailto://mail@danielbeeke.nl)
--   **Mobile:** [06 37346364](tel:0031637346364)
+-   **Mobile:** [06 37346364](tel://0031637346364)
 -   **GitHub:** [danielbeeke](https://github.com/danielbeeke/)
 -   **LinkedIn** [danielbeeke](https://www.linkedin.com/in/danielbeeke/)
 -   **Website:** [danielbeeke.nl](https://danielbeeke.nl/)
@@ -28,12 +28,13 @@ Summary
 -   **Preferred Stack:** TypeScript (Frontend and Backend), Extensive Deno and NodeJS Experience
 -   **Programming Languages:** TypeScript, JavaScript, PHP, Ruby, Bash
 -   **Agile Methodologies:** Scrum, Kanban, Design Sprints
--   **Linux:** 19 years experience (Ubuntu workstation, Debian, CentOS server-side)
 -   **Infrastructure as Code:** Terraform, Docker, Kubernetes, Pulumi
 -   **Testing:** Cypress, Mocha, PlayWright, Test Driven Development
 -   **Frameworks** NextJS, Qwik, Turbo, Drupal, React, Vue
 -   **CI/CD:** GitLab, Jenkins, Atlassian Software, GitHub
--   **Various:** WebRTC, Graph Databases, Time Series Databases, RxJS, ReadableStreams
+-   **Databases** Apache Jena, MongoDB, MariaDB, PostgreSQL, InfluxDB, SQLite
+-   **Linux:** 19 years experience (Ubuntu workstation, Debian, CentOS server-side)
+-   **Various:** WebRTC, RxJS, ReadableStreams, Comunica, RDFjs, PWA, library development
 -   **I worked in these domains:** 
     - Web Apps with Heavy Computations and Logic
     - Offline Apps
