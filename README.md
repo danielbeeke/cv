@@ -62,7 +62,7 @@ I am a systems thinker, which helps me when creating architecture. In my spare t
 Work Experience
 ---------------
 
-### [MediaWorks](https://mediaworks.global/)
+### MediaWorks
 
 *Nov 2020 - Present | 3 years 1 month*
 
