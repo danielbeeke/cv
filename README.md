@@ -139,8 +139,8 @@ I like to give talks at meetups.
 
 *2022 - 2023:*
 -   Biblica: Working Better Together
--   ViennaJS: [Querying Wikipedia for Real Influencers](https://www.youtube.com/live/MiROHWXA5lo?feature=shared&t=4065) / [slides](https://danielbeeke.nl/fluent-interfaces/)
--   ViennaJS: [Fluent Interfaces](https://www.youtube.com/watch?v=5e2xpsAzYNI) / [slides](https://danielbeeke.nl/querying-wikipedia/)
+-   ViennaJS: [Querying Wikipedia for Real Influencers](https://www.youtube.com/live/MiROHWXA5lo?feature=shared&t=4065) / [slides](https://danielbeeke.nl/querying-wikipedia/)
+-   ViennaJS: [Fluent Interfaces](https://www.youtube.com/watch?v=5e2xpsAzYNI) / [slides](https://danielbeeke.nl/fluent-interfaces/)
 
 *2012 - 2018:*
 -   UtrechtJS: OpenGroup
