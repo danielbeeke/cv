@@ -85,7 +85,7 @@ Work Experience
 
 **Software Engineer, Application Architect:**
 
--   Rewrote the customer and engineer portal for Oxilion and Fundaments, a multi-tenant solution. This included a migrating all the technical data from various systems into one. 
+-   Together with a small team we rewrote the customer and engineer portal for Oxilion and Fundaments, a multi-tenant solution. This included a migrating all the technical data from various systems into one. 
 -   Deep integration with ExactOnline, consolidating various financial ledgers.
 -   Integrated over 20 API integrations for hosting products such as virtual data centers, VPS, DNS, hosting packages, Cloud backup systems, etc.
 -   Created an analytics product to make it possible to bill virtual data center per minute, used InfluxDB for this.
@@ -112,6 +112,7 @@ Work Experience
 
 **Drupal Developer:**
 
+- Worked in a small team of Drupal developers
 - Worked on the first version of Open Social, the social intranet used by GreenPeace.
 - Worked on interactive web map for Nedap.
 - Created various Drupal modules and published those to drupal.org
@@ -138,8 +139,8 @@ I like to give talks at meetups.
 
 *2022 - 2023:*
 -   Biblica: Working Better Together
--   ViennaJS: Querying Wikipedia for Real Influencers
--   ViennaJS: Fluent Interfaces
+-   ViennaJS: [Querying Wikipedia for Real Influencers](https://www.youtube.com/live/MiROHWXA5lo?feature=shared&t=4065)
+-   ViennaJS: [Fluent Interfaces](https://www.youtube.com/watch?v=5e2xpsAzYNI)
 
 *2012 - 2018:*
 -   UtrechtJS: OpenGroup
