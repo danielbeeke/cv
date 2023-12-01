@@ -5,13 +5,15 @@ Daniël Beeke, <br />Software Engineer
 -   **Experience:** 15 years
 -   **Nationality:** Dutch
 -   **Languages:** Dutch, English
--   **Availability:** First quarter of 2024
+-   **Availability:** Starting from first quarter of 2024
 -   **Applicable Roles:**
     -   Application Architect
     -   Software Engineer
     -   Fullstack Engineer
     -   Frontend Engineer
     -   Team Lead
+    -   Mentor
+    -   Consultant
 
 Contact
 -------------------------
@@ -44,7 +46,7 @@ Hello I am Daniël Beeke, a software engineer that loves to solve problems for p
 
 I would love to work in a team that is able to pull of difficult tasks because of their great skills but also their team culture and relationships. I can fit in various roles as listed and I am the happiest when I can be close to the code and work together with colleagues. 
 
-I am generalist and love to learn new technologies. I can rapidly code together prototypes and proof if an idea might work. Over the years I have learned that communication skills might be more or at least equally as important as the programming skills. 
+I am generalist and love to learn new technologies. I can rapidly code together prototypes and prove if an idea might work. Over the years I have learned that communication skills might be more or at least equally as important as the programming skills. 
 
 I would love to work in a place where there is a high level of skills and because of that good relationships with customers. I want to work at a place where the customer pays for hours and not for products. I believe very strong in giving transparency as the only real reliable way of steering a project into the right way. Estimations are sometimes necessary but they can be quite misleading. And I have learned that along the way.
 
