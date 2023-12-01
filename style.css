@@ -12,8 +12,22 @@ body {
     grid-area: right;
 }
 
+.left > *:first-child > h2,
+.right > *:first-child > h2 {
+    margin-top: 1em;
+}
+
 summary {
     display: inline-block;
+}
+
+.talks,
+.some-side-projects,
+.code-references,
+.enkele-hobbyprojecten,
+.presentaties,
+.code-referenties {
+    display: none;
 }
 
 a {
@@ -28,10 +42,32 @@ h1, h2, h3, h4, h5, h6 {
 @media (min-width: 1280px) {
     body {
         display: grid;
-        grid-template-columns: 2fr 400px minmax(300px, 700px) 2fr;
-        grid-template-areas: "a left right b";
-        gap: 80px;
+        grid-template-columns: 2fr 400px minmax(300px, 900px) 2fr;
+        grid-template-areas: "a translation translation b" "a left right b";
     }    
+
+    .talks,
+    .some-side-projects,
+    .code-references,
+    .enkele-hobbyprojecten,
+    .presentaties,
+    .code-referenties {
+        display: block;
+    }
+
+    .right {
+        margin-left: 80px;
+    }
+
+    .left {
+        padding-inline: 3em;
+        background-color: rgb(210, 223, 235);    
+    }
+}
+
+.translation-link {
+    text-align: center;
+    grid-area: translation;
 }
 
 ul {

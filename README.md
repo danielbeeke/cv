@@ -5,7 +5,7 @@ Daniël Beeke, <br />Software Engineer
 -   **Experience:** 15 years
 -   **Nationality:** Dutch
 -   **Languages:** Dutch, English
--   **Availability:** Starting from first quarter of 2024
+-   **Availability:** From 2024
 -   **Applicable Roles:**
     -   Application Architect
     -   Software Engineer
