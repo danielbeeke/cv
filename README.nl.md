@@ -158,7 +158,7 @@ Enkele hobbyprojecten
 
 -   [Influence](https://influence.danielbeeke.nl): Een project om filosofen te verkennen met behulp van RDF-gegevens van dbpedia.
 -   [Ren of Wandelen](https://ov.danielbeeke.nl): Een app die advies geeft over rennen of lopen om het openbaar vervoer in Nederland te halen.
--   Beloningen: [Comunica](https://comunica.dev/association/bounties/) en [PLDN](https://github.com/pldn/LDWizard/issues/59)
+-   Bounties: [Comunica](https://comunica.dev/association/bounties/) en [PLDN](https://github.com/pldn/LDWizard/issues/59)
 -   [Qwirkle game](https://github.com/neutron-cracker/qwirkle) ontwikkeld via test-driven development.
 
 ##
