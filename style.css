@@ -1,0 +1,47 @@
+body {
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 1.7;
+    padding: 1em;
+}
+
+.left {
+    grid-area: left;
+}
+.right {
+    grid-area: right;
+}
+
+summary {
+    display: inline-block;
+}
+
+a {
+    color: rgb(57, 56, 56)
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 1.6em;
+    margin-bottom: 0em;
+}
+
+@media (min-width: 1280px) {
+    body {
+        display: grid;
+        grid-template-columns: 2fr 400px minmax(300px, 700px) 2fr;
+        grid-template-areas: "a left right b";
+        gap: 80px;
+    }    
+}
+
+ul {
+    padding: 0;
+}
+
+ul ul {
+    padding: 1em;
+}
+
+::marker {
+    color: rgb(14, 62, 10);
+}

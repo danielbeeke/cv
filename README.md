@@ -1,5 +1,5 @@
-CV Daniël Beeke, Software Engineer
-===============
+Daniël Beeke, <br />Software Engineer
+-------------------------
 
 -   **Age:** 33 years (07-01-1990)
 -   **Experience:** 15 years
@@ -34,22 +34,13 @@ Summary
 -   **CI/CD:** GitLab, Jenkins, Atlassian Software, GitHub
 -   **Databases** Apache Jena, MongoDB, MariaDB, PostgreSQL, InfluxDB, SQLite
 -   **Linux:** 19 years experience (Ubuntu workstation, Debian, CentOS server-side)
--   **Various:** WebRTC, RxJS, ReadableStreams, Comunica, RDFjs, PWA, library development
--   **I worked in these domains:** 
-    - Web Apps with Heavy Computations and Logic
-    - Offline Apps
-    - Medical LMS
-    - Data Visualizations
-    - Web Cartography
-    - Web hosting
-    - Linked Data (RDF)
-    - Commerce
-    - Digital Media
+-   **Various:** WebRTC, RxJS, ReadableStreams, Comunica, RDFjs, SHACL, PWA, library development, NPM and Deno module publication
+-   **I worked in these domains:** Web Apps with Heavy Computations and Logic, Offline Apps, Medical LMS, Data Visualizations, Web Cartography, Web hosting, Linked Data (RDF), Commerce, Digital Media
 
 About me
 ---------------
 
-Hello I am Daniel Beeke, a software engineer that loves to solve problems for people and organizations. I am an autodidact and love to learn and pass on knowledge.
+Hello I am Daniël Beeke, a software engineer that loves to solve problems for people and organizations. I am an autodidact and love to learn and pass on knowledge.
 
 I would love to work in a team that is able to pull of difficult tasks because of their great skills but also their team culture and relationships. I can fit in various roles as listed and I am the happiest when I can be close to the code and work together with colleagues. 
 
@@ -79,7 +70,7 @@ Work Experience
 
 * * * * *
 
-### [Fundaments](https://fundaments.nl/)
+### Fundaments
 
 *Jun 2018 - Oct 2020 | 2 years 5 months*
 
@@ -92,7 +83,7 @@ Work Experience
 
 * * * * *
 
-### [Fonkel](https://www.fonkel.io/)
+### Fonkel
 
 *Oct 2012 - May 2018 | 5 years 8 months*
 
@@ -106,7 +97,7 @@ Work Experience
 
 * * * * *
 
-### [GoalGorilla](https://www.getopensocial.com/)
+### GoalGorilla
 
 *Dec 2010 - Sep 2012 | 1 year 10 months*
 
@@ -138,7 +129,6 @@ Talks
 I like to give talks at meetups.
 
 *2022 - 2023:*
--   Biblica: Working Better Together
 -   ViennaJS: [Querying Wikipedia for Real Influencers](https://www.youtube.com/live/MiROHWXA5lo?feature=shared&t=4065) / [slides](https://danielbeeke.nl/querying-wikipedia/)
 -   ViennaJS: [Fluent Interfaces](https://www.youtube.com/watch?v=5e2xpsAzYNI) / [slides](https://danielbeeke.nl/fluent-interfaces/)
 
@@ -168,3 +158,4 @@ Some Side Projects
 -   Bounties: [Comunica](https://comunica.dev/association/bounties/) and [PLDN](https://github.com/pldn/LDWizard/issues/59)
 -   [Qwirkle game](https://github.com/neutron-cracker/qwirkle) developed through test-driven development.
 
+## 
