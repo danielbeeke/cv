@@ -3,81 +3,59 @@ body {
     font-size: 18px;
     line-height: 1.7;
     padding: 1em;
+    gap: 40px;
+}
+
+@media (min-width: 900px) {
+    body {
+        display: grid;
+        grid-template-areas: "spacerLeft left right spacerRight";
+        grid-template-columns: 1fr minmax(200px, 300px) minmax(400px, 800px) 1fr;    
+    }    
+
+    .right {
+        /* margin-top: 1em; */
+    }
+}
+
+.left > .inner {
+    position: sticky;
+    top: 1.5em;
 }
 
 .left {
     grid-area: left;
 }
+
 .right {
     grid-area: right;
 }
 
-.left > *:first-child > h2,
-.right > *:first-child > h2 {
-    margin-top: 1em;
-}
-
-summary {
-    display: inline-block;
-}
-
-.talks,
-.some-side-projects,
-.code-references,
-.enkele-hobbyprojecten,
-.presentaties,
-.code-referenties {
-    display: none;
+ul {
+    padding-left: 1em;
 }
 
 a {
-    color: rgb(57, 56, 56)
+    color: black;
 }
 
-h1, h2, h3, h4, h5, h6 {
-    margin-top: 1.6em;
-    margin-bottom: 0em;
+.photo {
+    width: 160px;
+    border-radius: 4px;
 }
 
-@media (min-width: 1280px) {
-    body {
-        display: grid;
-        grid-template-columns: 2fr 400px minmax(300px, 900px) 2fr;
-        grid-template-areas: "a translation translation b" "a left right b";
-    }    
-
-    .talks,
-    .some-side-projects,
-    .code-references,
-    .enkele-hobbyprojecten,
-    .presentaties,
-    .code-referenties {
-        display: block;
-    }
-
-    .right {
-        margin-left: 80px;
-    }
-
-    .left {
-        padding-inline: 3em;
-        background-color: rgb(210, 223, 235);    
-    }
+.right h2 {
+    margin-top: 2em;
+    padding-bottom: .5em;
+    border-bottom: 1px solid rgb(126, 126, 126);  
 }
 
-.translation-link {
-    text-align: center;
-    grid-area: translation;
+.work-experience ul + h3 {
+    padding-top: 1em;
+    margin-top: 2em;
+    border-top: 1px solid rgb(126, 126, 126);
 }
 
-ul {
-    padding: 0;
-}
-
-ul ul {
-    padding: 1em;
-}
-
-::marker {
-    color: rgb(14, 62, 10);
+.language-link {
+    font-style: italic;
 }

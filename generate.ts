@@ -21,11 +21,11 @@ const textToBlocks = (text: string): { [key: string]: string } => {
                 .replaceAll(/ |,/g, '-')
                 .toLowerCase()
 
-            block.push(`<div class="block ${className}">${line}`)
+            block.push(line)
         }
 
         else if (headers.some(header => lines[index + 1]?.startsWith(`<${header}>`)) || !lines[index + 1]) {
-            block.push(`${line}</div>`)
+            block.push(line)
             htmlBlocks[className] = block.join('\n')
             block = []
         }
@@ -44,24 +44,23 @@ const htmlBlocksDutch = Object.fromEntries(
         textToBlocks(textDutch)).map(([name, text], index) => [blocksMapping[index], text]))
 
 const output = (htmlBlocks: { [key: string]: string }, language: string) => `
-
-    <div class="translation-link">
-        <a href="/${language === 'en' ? 'nl' : 'en'}">${language === 'en' ? 'Nederlandse versie' : 'English version'}</a>
-    </div>
         
-    <div class="left">
-        ${htmlBlocks['software-engineer']}
-        ${htmlBlocks['contact']}
-        ${htmlBlocks['code-references']}
-        ${htmlBlocks['some-side-projects']}
-        ${htmlBlocks['talks']}
-    </div>
-    <div class="right">
-        ${htmlBlocks['summary']}
-        ${htmlBlocks['about-me']}
-        ${htmlBlocks['work-experience']}
-        ${htmlBlocks['study']}
-    </div>
+    <aside class="left">
+        <div class="inner">
+            <a class="language-link" href="/${language === 'en' ? 'nl' : 'en'}">${language === 'en' ? 'Nederlandse versie' : 'English version'}</a>
+            <section class="software-engineer">${htmlBlocks['software-engineer']}</section>
+        </div>
+    </aside>
+
+    <main class="right">
+        <section class="about-me">${htmlBlocks['about-me']}</section>
+        <section class="summary">${htmlBlocks['summary']}</section>
+        <section class="work-experience">${htmlBlocks['work-experience']}</section>
+        <section class="study">${htmlBlocks['study']}</section>
+        <section class="code-references">${htmlBlocks['code-references']}</section>
+        <section class="some-side-projects">${htmlBlocks['some-side-projects']}</section>
+        <section class="talks">${htmlBlocks['talks']}</section>
+    </main>
 `
 
 Deno.writeTextFileSync('./en/index.html', template.replace('<body></body>', `<body>${output(htmlBlocks, 'en')}</body>`))

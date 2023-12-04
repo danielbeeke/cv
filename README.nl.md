@@ -6,18 +6,7 @@ Daniël Beeke, <br />Software Engineer
 -   **Nationaliteit:** Nederlands
 -   **Talen:** Nederlands, Engels
 -   **Beschikbaarheid:** Vanaf 2024
--   **Toepasbare Rollen:**
-    -   Applicatie Architect
-    -   Software Engineer
-    -   Fullstack Engineer
-    -   Frontend Engineer
-    -   Teamleider
-    -   Mentor
-    -   Consultant
-
-Contact
--------------------------
-
+-   **Toepasbare Rollen:** Applicatie Architect, Software Engineer, Fullstack Engineer, Frontend Engineer, Teamleider, Mentor, Consultant
 -   **E-mail:** [mail@danielbeeke.nl](mailto://mail@danielbeeke.nl)
 -   **Mobiel:** [06 37346364](tel://0031637346364)
 -   **GitHub:** [danielbeeke](https://github.com/danielbeeke/)
@@ -32,11 +21,11 @@ Samenvatting
 -   **Agile Methodologieën:** Scrum, Kanban, Design Sprints
 -   **Infrastructuur als Code:** Terraform, Docker, Kubernetes, Pulumi
 -   **Testen:** Cypress, Mocha, PlayWright, Test Driven Development
--   **Frameworks** NextJS, Express, Symfony, Qwik, Turbo, Drupal, React, Vue
--   **Soft skills** Analytisch, gedreven, geïnteresseerd in nieuwe ontwikkelingen, verkoop gesprekken, op tijd communiceren, presentaties, betrokken, stressbestendig, verantwoordelijk, flexibel
+-   **Frameworks:** NextJS, Express, Symfony, Qwik, Turbo, Drupal, React, Vue
+-   **Soft skills:** Analytisch, gedreven, geïnteresseerd in nieuwe ontwikkelingen, verkoop gesprekken, op tijd communiceren, presentaties, betrokken, stressbestendig, verantwoordelijk, flexibel
 -   **CI/CD:** GitLab, Jenkins, Atlassian Software, GitHub
--   **Cloud** CloudFlare, AWS, Azure
--   **Databases** Apache Jena, MongoDB, MariaDB, PostgreSQL, InfluxDB, SQLite
+-   **Cloud:** CloudFlare, AWS, Azure
+-   **Databases:** Apache Jena, MongoDB, MariaDB, PostgreSQL, InfluxDB, SQLite
 -   **Linux:** 19 jaar ervaring (Ubuntu werkstation, Debian, CentOS server-side)
 -   **Diversen:** WebRTC, RxJS, ReadableStreams, Comunica, RDFjs, SHACL, PWA, bibliotheekontwikkeling, NPM- en Deno-modulepublicatie
 -   **Ik heb gewerkt in deze domeinen:** Web-apps met zware berekeningen en logica, offline apps, medische LMS, gegevensvisualisaties, web cartografie, webhosting, Linked Data (RDF), Commerce, Digital Media
@@ -46,9 +35,9 @@ Over mij
 
 Hallo, ik ben Daniël Beeke, een software-engineer die graag problemen oplost voor mensen en organisaties. Ik ben autodidact en hou ervan om te leren en kennis door te geven.
 
-Ik zou graag werken in een team dat in staat is om moeilijke taken uit te voeren vanwege hun geweldige vaardigheden, maar ook vanwege hun teamcultuur en relaties. Ik pas in verschillende rollen zoals vermeld en ik ben het gelukkigst als ik dicht bij de code kan zijn en samen kan werken met collega's.
+Ik zou graag werken in een team dat in staat is om moeilijke taken uit te voeren vanwege hun goede vaardigheden, maar ook vanwege hun teamcultuur en relaties. Ik pas in verschillende rollen zoals vermeld en ik ben het gelukkigst als ik dicht bij de code kan zijn en samen kan werken met collega's.
 
-Ik ben een generalist en hou ervan om nieuwe technologieën te leren. Ik kan snel prototypes coderen en bewijzen of een idee zou kunnen werken. In de loop der jaren heb ik geleerd dat communicatieve vaardigheden misschien belangrijker of op zijn minst even belangrijk zijn als programmeervaardigheden.
+Ik ben een generalist en hou ervan om nieuwe technologieën te leren. Ik kan snel prototypes maken en bewijzen of een idee zou kunnen werken. In de loop der jaren heb ik geleerd dat communicatieve vaardigheden misschien belangrijker of op zijn minst even belangrijk zijn als programmeervaardigheden.
 
 Ik zou graag werken op een plek waar een hoog niveau van vaardigheden is en daardoor goede relaties met klanten. Ik wil werken op een plek waar de klant betaalt voor uren en niet voor producten. Ik geloof zeer sterk in transparantie als de enige echt betrouwbare manier om een project in de juiste richting te sturen. Schattingen zijn soms nodig maar ze kunnen behoorlijk misleidend zijn. En dat heb ik onderweg geleerd.
 
@@ -72,8 +61,6 @@ Werkervaring
 -   Bedreven in testen met PlayWright, Cypress, Jest en Deno-testsuite.
 -   Samengewerkt met de rdfjs/shacl-ui-gemeenschapsgroep onder W3C.
 
-* * * * *
-
 ### Fundaments
 
 *Jun 2018 - Okt 2020 | 2 jaar 5 maanden*
@@ -84,8 +71,6 @@ Werkervaring
 -   Diepe integratie met ExactOnline, consolideren van verschillende financiële grootboeken.
 -   Geïntegreerd met meer dan 20 API-integraties voor hostingproducten zoals virtuele datacenters, VPS, DNS, hostingpakketten, Cloud-back-upsysteem, etc.
 -   Een analytisch product gecreëerd om facturering van virtuele datacenter per minuut mogelijk te maken, gebruikmakend van InfluxDB.
-
-* * * * *
 
 ### Fonkel
 
@@ -99,8 +84,6 @@ Werkervaring
 -   Een rekentool gemaakt voor de Nederlandse timmerindustrie om de warmteverlies van houten panelen, deuren en ramen te berekenen en te tekenen. Dit werd gedaan samen met een persoon die alle technische details begreep vanuit het timmermansperspectief en één andere programmeur.
 -   Diverse design sprints uitgevoerd, waaronder een voor een startup in de luchtvaartindustrie en een voor belastingdienst.
 
-* * * * *
-
 ### GoalGorilla
 
 *Dec 2010 - Sep 2012 | 1 jaar 10 maanden*
@@ -112,8 +95,6 @@ Werkervaring
 -   Werkte aan interactieve webkaart voor Nedap.
 -   Verschillende Drupal-modules gemaakt en gepubliceerd op drupal.org
 -   Verschillende websites en toepassingen gemaakt met Drupal 6 en 7.
-
-* * * * *
 
 ### Freelance
 

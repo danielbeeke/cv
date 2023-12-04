@@ -6,18 +6,7 @@ Daniël Beeke, <br />Software Engineer
 -   **Nationality:** Dutch
 -   **Languages:** Dutch, English
 -   **Availability:** From 2024
--   **Applicable Roles:**
-    -   Application Architect
-    -   Software Engineer
-    -   Fullstack Engineer
-    -   Frontend Engineer
-    -   Team Lead
-    -   Mentor
-    -   Consultant
-
-Contact
--------------------------
-
+-   **Applicable Roles:** Application Architect, Software Engineer, Fullstack Engineer, Frontend Engineer, Team Lead, Mentor, Consultant
 -   **Email:** [mail@danielbeeke.nl](mailto://mail@danielbeeke.nl)
 -   **Mobile:** [06 37346364](tel://0031637346364)
 -   **GitHub:** [danielbeeke](https://github.com/danielbeeke/)
@@ -32,11 +21,11 @@ Summary
 -   **Agile Methodologies:** Scrum, Kanban, Design Sprints
 -   **Infrastructure as Code:** Terraform, Docker, Kubernetes, Pulumi
 -   **Testing:** Cypress, Mocha, PlayWright, Test Driven Development
--   **Frameworks** NextJS, Express, Symfony, Qwik, Turbo, Drupal, React, Vue
--   **Soft skills** Analytical, driven, interested in new developments, sales conversations, timely communication, presentations, involved, stress-resistant, responsible, flexible
+-   **Frameworks:** NextJS, Express, Symfony, Qwik, Turbo, Drupal, React, Vue
+-   **Soft skills:** Analytical, driven, interested in new developments, sales conversations, timely communication, presentations, involved, stress-resistant, responsible, flexible
 -   **CI/CD:** GitLab, Jenkins, Atlassian Software, GitHub
--   **Cloud** CloudFlare, AWS, Azure
--   **Databases** Apache Jena, MongoDB, MariaDB, PostgreSQL, InfluxDB, SQLite
+-   **Cloud:** CloudFlare, AWS, Azure
+-   **Databases:** Apache Jena, MongoDB, MariaDB, PostgreSQL, InfluxDB, SQLite
 -   **Linux:** 19 years experience (Ubuntu workstation, Debian, CentOS server-side)
 -   **Various:** WebRTC, RxJS, ReadableStreams, Comunica, RDFjs, SHACL, PWA, library development, NPM and Deno module publication
 -   **I worked in these domains:** Web Apps with Heavy Computations and Logic, Offline Apps, Medical LMS, Data Visualizations, Web Cartography, Web hosting, Linked Data (RDF), Commerce, Digital Media
@@ -73,8 +62,6 @@ Work Experience
 -   Proficient in testing with PlayWright, Cypress, Jest, and Deno test suite.
 -   Collaborated with the rdfjs/shacl-ui community group under W3C.
 
-* * * * *
-
 ### Fundaments
 
 *Jun 2018 - Oct 2020 | 2 years 5 months*
@@ -85,8 +72,6 @@ Work Experience
 -   Deep integration with ExactOnline, consolidating various financial ledgers.
 -   Integrated over 20 API integrations for hosting products such as virtual data centers, VPS, DNS, hosting packages, Cloud backup systems, etc.
 -   Created an analytics product to make it possible to bill virtual data center per minute, used InfluxDB for this.
-
-* * * * *
 
 ### Fonkel
 
@@ -100,8 +85,6 @@ Work Experience
 - Created a calculation tool for the Dutch carpentry branch to draw and then calculate the warmth loss of wooden panels, doors and windows. This was done together with a person who understood all the technical details from the carpentry perspective and one other programmer.
 - Did various design sprints, one was for a startup in the aviation industry and one for the Dutch Tax ministry.
 
-* * * * *
-
 ### GoalGorilla
 
 *Dec 2010 - Sep 2012 | 1 year 10 months*
@@ -113,7 +96,6 @@ Work Experience
 - Worked on interactive web map for Nedap.
 - Created various Drupal modules and published those to drupal.org
 - Made various websites and applications with Drupal 6 and 7.
-* * * * *
 
 ### Freelance
 
