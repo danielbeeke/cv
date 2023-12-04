@@ -33,7 +33,9 @@ Samenvatting
 -   **Infrastructuur als Code:** Terraform, Docker, Kubernetes, Pulumi
 -   **Testen:** Cypress, Mocha, PlayWright, Test Driven Development
 -   **Frameworks** NextJS, Express, Symfony, Qwik, Turbo, Drupal, React, Vue
+-   **Soft skills** Analytisch, gedreven, geïnteresseerd in nieuwe ontwikkelingen, verkoop gesprekken, op tijd communiceren, presentaties, betrokken, stressbestendig, verantwoordelijk, flexibel
 -   **CI/CD:** GitLab, Jenkins, Atlassian Software, GitHub
+-   **Cloud** CloudFlare, AWS, Azure
 -   **Databases** Apache Jena, MongoDB, MariaDB, PostgreSQL, InfluxDB, SQLite
 -   **Linux:** 19 jaar ervaring (Ubuntu werkstation, Debian, CentOS server-side)
 -   **Diversen:** WebRTC, RxJS, ReadableStreams, Comunica, RDFjs, SHACL, PWA, bibliotheekontwikkeling, NPM- en Deno-modulepublicatie
