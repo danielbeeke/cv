@@ -1,4 +1,5 @@
 import { marked } from 'https://esm.sh/marked@11.0.0'
+import prettify from 'npm:@liquify/prettify'
 const text = Deno.readTextFileSync('./README.md')
 const textDutch = Deno.readTextFileSync('./README.nl.md')
 const template = Deno.readTextFileSync('./template.html')
@@ -8,7 +9,7 @@ const headers = ['h1', 'h2']
 const textToBlocks = (text: string): { [key: string]: string } => {
     const htmlBlocks: { [key: string]: string } = {}
     let block: string[] = []
-    const lines = marked.parse(text).split('\n')
+    const lines = marked.parse(text).split('\n').map((line: string) => line.includes('<img') ? line.replaceAll('<p>', '').replaceAll('</p>', '') : line)
 
     let usedHeader, className
     for (const [index, line] of lines.entries()) {
@@ -58,10 +59,13 @@ const output = (htmlBlocks: { [key: string]: string }, language: string) => `
         <section class="work-experience">${htmlBlocks['work-experience']}</section>
         <section class="study">${htmlBlocks['study']}</section>
         <section class="code-references">${htmlBlocks['code-references']}</section>
-        <section class="some-side-projects">${htmlBlocks['some-side-projects']}</section>
         <section class="talks">${htmlBlocks['talks']}</section>
+        <section class="some-side-projects">${htmlBlocks['some-side-projects']}</section>
     </main>
 `
 
-Deno.writeTextFileSync('./en/index.html', template.replace('<body></body>', `<body>${output(htmlBlocks, 'en')}</body>`))
-Deno.writeTextFileSync('./nl/index.html', template.replace('<body></body>', `<body>${output(htmlBlocksDutch, 'nl')}</body>`))
+const en = template.replace('<body></body>', `<body>${output(htmlBlocks, 'en')}</body>`)
+const nl = template.replace('<body></body>', `<body>${output(htmlBlocksDutch, 'nl')}</body>`)
+
+Deno.writeTextFileSync('./en/index.html', await prettify.format(en))
+Deno.writeTextFileSync('./nl/index.html', await prettify.format(nl))

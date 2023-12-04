@@ -17,7 +17,7 @@ Samenvatting
 -------------------------
 
 -   **Technologie stack:** TypeScript (Frontend en Backend), Uitgebreide Deno en NodeJS Ervaring
--   **Programmeertalen:** TypeScript, JavaScript, PHP, Ruby, Bash
+-   **Programmeertalen:** TypeScript, JavaScript, PHP, Ruby, Bash, SCSS
 -   **Agile Methodologieën:** Scrum, Kanban, Design Sprints
 -   **Infrastructuur als Code:** Terraform, Docker, Kubernetes, Pulumi
 -   **Testen:** Cypress, Mocha, PlayWright, Test Driven Development
@@ -32,6 +32,8 @@ Samenvatting
 
 Over mij
 ---------------
+
+![daniel](/daniel.jpeg)
 
 Hallo, ik ben Daniël Beeke, een software-engineer die graag problemen oplost voor mensen en organisaties. Ik ben autodidact en hou ervan om te leren en kennis door te geven.
 

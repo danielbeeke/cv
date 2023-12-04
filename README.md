@@ -17,7 +17,7 @@ Summary
 -------------------------
 
 -   **Preferred Stack:** TypeScript (Frontend and Backend), Extensive Deno and NodeJS Experience
--   **Programming Languages:** TypeScript, JavaScript, PHP, Ruby, Bash
+-   **Programming Languages:** TypeScript, JavaScript, PHP, Ruby, Bash, SCSS
 -   **Agile Methodologies:** Scrum, Kanban, Design Sprints
 -   **Infrastructure as Code:** Terraform, Docker, Kubernetes, Pulumi
 -   **Testing:** Cypress, Mocha, PlayWright, Test Driven Development
@@ -32,6 +32,8 @@ Summary
 
 About me
 ---------------
+
+![daniel](/daniel.jpeg)
 
 Hello I am Daniël Beeke, a software engineer that loves to solve problems for people and organizations. I am an autodidact and love to learn and pass on knowledge.
 

@@ -3,19 +3,14 @@ body {
     font-size: 18px;
     line-height: 1.7;
     padding: 1em;
-    gap: 40px;
 }
 
 @media (min-width: 900px) {
     body {
         display: grid;
         grid-template-areas: "spacerLeft left right spacerRight";
-        grid-template-columns: 1fr minmax(200px, 300px) minmax(400px, 800px) 1fr;    
+        grid-template-columns: 1fr minmax(200px, 350px) minmax(400px, 900px) 1fr;    
     }    
-
-    .right {
-        /* margin-top: 1em; */
-    }
 }
 
 .left > .inner {
@@ -25,10 +20,14 @@ body {
 
 .left {
     grid-area: left;
+    background-color: rgba(255, 255, 255, .7);
+    padding-inline: 40px;
 }
 
 .right {
+    background-color: white;
     grid-area: right;
+    padding-inline: 40px;
 }
 
 ul {
@@ -36,12 +35,15 @@ ul {
 }
 
 a {
-    color: black;
+    color: rgb(23, 57, 23);
 }
 
-.photo {
-    width: 160px;
+img {
+    width: 200px;
     border-radius: 4px;
+    float: right;
+    margin-left: 20px;
+    margin-bottom: 20px;
 }
 
 .right h2 {
@@ -58,4 +60,8 @@ a {
 
 .language-link {
     font-style: italic;
+}
+
+h2, h3 {
+    color: rgb(23, 57, 23);
 }
