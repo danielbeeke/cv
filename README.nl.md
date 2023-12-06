@@ -1,12 +1,10 @@
 Daniël Beeke, <br />Software Engineer
 -------------------------
 
--   **Leeftijd:** 33 jaar (07-01-1990)
+![daniel](/daniel.jpeg)
+
 -   **Ervaring:** 15 jaar
--   **Nationaliteit:** Nederlands
--   **Talen:** Nederlands, Engels
--   **Beschikbaarheid:** Vanaf 2024
--   **Toepasbare Rollen:** Applicatie Architect, Software Engineer, Fullstack Engineer, Frontend Engineer, Teamleider, Mentor, Consultant
+-   **Toepasbare Rollen:** Applicatie Architect, Software Engineer, Fullstack Engineer, Teamleider, Mentor, Consultant
 -   **E-mail:** [mail@danielbeeke.nl](mailto://mail@danielbeeke.nl)
 -   **Mobiel:** [06 37346364](tel://0031637346364)
 -   **GitHub:** [danielbeeke](https://github.com/danielbeeke/)
@@ -32,8 +30,6 @@ Samenvatting
 
 Over mij
 ---------------
-
-![daniel](/daniel.jpeg)
 
 Hallo, ik ben Daniël Beeke, een software-engineer die graag problemen oplost voor mensen en organisaties. Ik ben autodidact en hou ervan om te leren en kennis door te geven.
 

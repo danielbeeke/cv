@@ -1,28 +1,29 @@
 Daniël Beeke, <br />Software Engineer
 -------------------------
 
--   **Age:** 33 years (07-01-1990)
--   **Experience:** 15 years
--   **Nationality:** Dutch
--   **Languages:** Dutch, English
--   **Availability:** From 2024
--   **Applicable Roles:** Application Architect, Software Engineer, Fullstack Engineer, Frontend Engineer, Team Lead, Mentor, Consultant
--   **Email:** [mail@danielbeeke.nl](mailto://mail@danielbeeke.nl)
--   **Mobile:** [06 37346364](tel://0031637346364)
--   **GitHub:** [danielbeeke](https://github.com/danielbeeke/)
--   **LinkedIn** [danielbeeke](https://www.linkedin.com/in/danielbeeke/)
--   **Website:** [danielbeeke.nl](https://danielbeeke.nl/)
+![daniel](/daniel.jpeg)
+
+**Applicable Roles:** Application Architect, Fullstack Software Engineer, Team Lead, Mentor, Consultant<br/>
+**Experience:** 15 years<br />
+**Soft skills:** Analytical, driven, involved, stress-resistant, responsible, flexible, experience with working in an international team
+
+
+[mail@danielbeeke.nl](mailto://mail@danielbeeke.nl)<br />
+[06 37346364](tel://0031637346364)<br />
+[GitHub](https://github.com/danielbeeke/)<br />
+[LinkedIn](https://www.linkedin.com/in/danielbeeke/)<br />
+[danielbeeke.nl](https://danielbeeke.nl/)
+
 
 Summary
 -------------------------
 
 -   **Preferred Stack:** TypeScript (Frontend and Backend), Extensive Deno and NodeJS Experience
--   **Programming Languages:** TypeScript, JavaScript, PHP, Ruby, Bash, SCSS
+-   **Programming Languages:** TypeScript, JavaScript, SCSS
 -   **Agile Methodologies:** Scrum, Kanban, Design Sprints
 -   **Infrastructure as Code:** Terraform, Docker, Kubernetes, Pulumi
--   **Testing:** Cypress, Mocha, PlayWright, Test Driven Development
--   **Frameworks:** NextJS, Express, Symfony, Qwik, Turbo, Drupal, React, Vue
--   **Soft skills:** Analytical, driven, interested in new developments, sales conversations, timely communication, presentations, involved, stress-resistant, responsible, flexible
+-   **Testing:** Cypress, Jest, PlayWright, Test Driven Development
+-   **Frameworks:** NextJS, Express, Qwik, Turbo, React, Vue
 -   **CI/CD:** GitLab, Jenkins, Atlassian Software, GitHub
 -   **Cloud:** CloudFlare, AWS, Azure
 -   **Databases:** Apache Jena, MongoDB, MariaDB, PostgreSQL, InfluxDB, SQLite
@@ -30,30 +31,30 @@ Summary
 -   **Various:** WebRTC, RxJS, ReadableStreams, Comunica, RDFjs, SHACL, PWA, library development, NPM and Deno module publication
 -   **I worked in these domains:** Web Apps with Heavy Computations and Logic, Offline Apps, Medical LMS, Data Visualizations, Web Cartography, Web hosting, Linked Data (RDF), Commerce, Digital Media
 
+
+Things I am passionate about
+-------------------------
+
+-   Data. I am very enthusiastic about the possibilities of Linked Data and data in general when it is well organized.
+-   Linux, Browser standards, new specifications and Open Source
+-   Solid and RDF, I was member of the rdfjs/shacl-ui community group under the W3C. Recently I did some bounties for [Comunica](https://comunica.dev/association/bounties/) and [PLDN](https://github.com/pldn/LDWizard/issues/59). A while ago I visited the Solid Symposium in Neurenberg.
+-   Data visualizations, interactive maps and stitching together data to be able to create great 
+
 About me
 ---------------
 
-![daniel](/daniel.jpeg)
-
-Hello I am Daniël Beeke, a software engineer that loves to solve problems for people and organizations. I am an autodidact and love to learn and pass on knowledge.
-
-I would love to work in a team that is able to pull off difficult tasks because of their great skills but also their team culture and relationships. I can fit in various roles as listed and I am the happiest when I can be close to the code and work together with colleagues.
+Hello I am Daniël Beeke, a software engineer that loves to solve problems for people and organizations. I love to learn and pass on knowledge.
 
 I am a generalist and love to learn new technologies. I can rapidly code together prototypes and proof if an idea might work. Over the years I have learned that communication skills might be more or at least equally as important as the programming skills.
 
-I would love to work in a place where there is a high level of skills and because of that good relationships with customers. I want to work at a place where the customer pays for hours and not for products. I believe very strongly in giving transparency as the only real reliable way of steering a project into the right way. Estimations are sometimes necessary but they can be quite misleading. And I have learned that along the way.
-
-I am a systems thinker, which helps me when creating architecture. In my spare time I have dabbled with creating popup cards (the foldable ones) and some woodworking. I play guitar and ukulele.
-
+I am always looking for the next side project, from an app to showcase [the influence of philosophers](https://influence.danielbeeke.nl) to an app that tells if you should [walk or run](https://ov.danielbeeke.nl) to catch the next bus.
 
 Work Experience
 ---------------
 
-### MediaWorks
+### Software Engineer at _MediaWorks_
 
-*Nov 2020 - Present | 3 years 1 month*
-
-**Software Engineer, Application Architect:**
+*Nov 2020 - Present*
 
 -   Worked on a visionary product, a multi-channel media app builder, and media catalog utilizing Deno, Apache Lucene, Apache Jena, etc.
 -   Building Open Source tools like Bundled Media, a real-time gateway to media from various sources, allowing SPARQL query on top of real time proxied API data.
@@ -64,22 +65,18 @@ Work Experience
 -   Proficient in testing with PlayWright, Cypress, Jest, and Deno test suite.
 -   Collaborated with the rdfjs/shacl-ui community group under W3C.
 
-### Fundaments
+### Software Engineer at _Fundaments_
 
-*Jun 2018 - Oct 2020 | 2 years 5 months*
-
-**Software Engineer, Application Architect:**
+*Jun 2018 - Oct 2020*
 
 -   Together with a small team we rewrote the customer and engineer portal for Oxilion and Fundaments, a multi-tenant solution. This included a migrating all the technical data from various systems into one. 
 -   Deep integration with ExactOnline, consolidating various financial ledgers.
 -   Integrated over 20 API integrations for hosting products such as virtual data centers, VPS, DNS, hosting packages, Cloud backup systems, etc.
 -   Created an analytics product to make it possible to bill virtual data center per minute, used InfluxDB for this.
 
-### Fonkel
+### Team Lead at _Fonkel_
 
-*Oct 2012 - May 2018 | 5 years 8 months*
-
-**Drupal Developer, Team Lead:**
+*Oct 2012 - May 2018*
 
 -   Led a team of 3 to 6 developers in creating various Drupal and JavaScript applications, including interactive geographic maps and content-heavy multilingual Drupal sites.
 -   Worked with the Dutch Tax Ministry on prototyping and implementing a tool for insights into people and organizations from various sources. This tool is used by more than 5 departments of the Dutch Tax Ministry.
@@ -87,11 +84,9 @@ Work Experience
 - Created a calculation tool for the Dutch carpentry branch to draw and then calculate the warmth loss of wooden panels, doors and windows. This was done together with a person who understood all the technical details from the carpentry perspective and one other programmer.
 - Did various design sprints, one was for a startup in the aviation industry and one for the Dutch Tax ministry.
 
-### GoalGorilla
+### Drupal Developer at _GoalGorilla_
 
-*Dec 2010 - Sep 2012 | 1 year 10 months*
-
-**Drupal Developer:**
+*Dec 2010 - Sep 2012*
 
 - Worked in a small team of Drupal developers
 - Worked on the first version of Open Social, the social intranet used by GreenPeace.
@@ -99,36 +94,29 @@ Work Experience
 - Created various Drupal modules and published those to drupal.org
 - Made various websites and applications with Drupal 6 and 7.
 
-### Freelance
+### Drupal Developer as _Freelancer_
 
 *2008 - 2010*
-
-**Drupal Developer:**
 
 -   Built a community platform for the Dutch Christian branch organization for psychologists and several Drupal websites for various organizations.
 
 Study
 -----
 
--   Formal education not completed. Tried art academy, I have a good eye for detail and visuals. Started freelancing at 18, creating logos, corporate identities, posters, and small Drupal websites.
+-   Formal education not completed. Started art academy, I have a good eye for detail and visuals. Started freelancing at 18, creating logos, corporate identities, posters, and small Drupal websites.
 
 Talks
 -----
 
 I like to give talks at meetups.
 
-*2022 - 2023:*
 -   ViennaJS: [Querying Wikipedia for Real Influencers](https://www.youtube.com/live/MiROHWXA5lo?feature=shared&t=4065) / [slides](https://danielbeeke.nl/querying-wikipedia/)
 -   ViennaJS: [Fluent Interfaces](https://www.youtube.com/watch?v=5e2xpsAzYNI) / [slides](https://danielbeeke.nl/fluent-interfaces/)
-
-*2012 - 2018:*
 -   UtrechtJS: OpenGroup [slides](http://danielbeeke.nl/presentation-utrechtjs-20)
 -   DrupalJam: Everything is a ViewMode / [slides](https://danielbeeke.nl/everything-is-a-viewmode/)
 -   Enschede Drupal Meetup: Interactive Web Maps
-
-*2010 - 2012:*
 -   DrupalJam: Open Social
--   DrupalJam: all your base are belong to git
+-   DrupalJam: All your base are belong to git
 
 
 Code references
@@ -138,13 +126,3 @@ Code references
 - Bundled Media [demo](https://bundled.media/stream) / [code](https://github.com/OM-MediaWorks/bundled.media/blob/master/src/Fetchers/FetchByOffsetAndLimit.ts)
 - Qwirkle game (unfinished), test driven development [code](https://github.com/neutron-cracker/qwirkle/blob/master/tests/State.test.ts)
 - SHACL Form [demo](https://shacl-form.mediaworks.global/0) / [code](https://github.com/OM-MediaWorks/shacl-form/blob/master/lib/editors/single/Reference/index.tsx)
-
-Some Side Projects
----------------------
-
--   [Influence](https://influence.danielbeeke.nl): A project to explore philosophers using RDF data from dbpedia.
--   [To Run or To Walk](https://ov.danielbeeke.nl): An app advising on running or walking to catch Dutch public transport.
--   Bounties: [Comunica](https://comunica.dev/association/bounties/) and [PLDN](https://github.com/pldn/LDWizard/issues/59)
--   [Qwirkle game](https://github.com/neutron-cracker/qwirkle) developed through test-driven development.
-
-## 
