@@ -69,5 +69,5 @@ const output = (htmlBlocks: { [key: string]: string }, language: string) => `
 const en = template.replace('<body></body>', `<body>${output(htmlBlocks, 'en')}</body>`)
 const nl = template.replace('<body></body>', `<body>${output(htmlBlocksDutch, 'nl')}</body>`)
 
-Deno.writeTextFileSync('./index.html', await prettify.format(en))
-// Deno.writeTextFileSync('./nl/index.html', await prettify.format(nl))
+Deno.writeTextFileSync('./en/index.html', await prettify.format(en))
+Deno.writeTextFileSync('./nl/index.html', await prettify.format(nl))
