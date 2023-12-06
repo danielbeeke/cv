@@ -102,6 +102,11 @@ h2, h3 {
     position: relative;
 }
 
+.work-experience p:first-of-type {
+    margin-left: 0;
+    margin-bottom: 2em;
+}
+
 .work-experience h3:before {
     display: block;
     width: 12px;
@@ -119,11 +124,11 @@ h2, h3 {
     content: '';
     position: absolute;
     display: block;
-    top: 154px;
+    top: 200px;
     border-radius: 10px;
     width: 12px;
     left: 0px;
-    height: calc(100% - 154px);
+    height: calc(100% - 200px);
     background-color: var(--green-light);
 }
 

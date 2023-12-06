@@ -3,8 +3,8 @@ Daniël Beeke, <br />Software Engineer
 
 ![daniel](/daniel.jpeg)
 
+**Date of birth:** 7-1-1990
 **Applicable Roles:** Application Architect, Fullstack Software Engineer, Team Lead, Mentor, Consultant<br/>
-**Experience:** 15 years<br />
 **Soft skills:** Analytical, driven, involved, stress-resistant, responsible, flexible, experience with working in an international team
 
 
@@ -32,25 +32,27 @@ Summary
 -   **I worked in these domains:** Web Apps with Heavy Computations and Logic, Offline Apps, Medical LMS, Data Visualizations, Web Cartography, Web hosting, Linked Data (RDF), Commerce, Digital Media
 
 
-Things I am passionate about
--------------------------
-
--   Data. I am very enthusiastic about the possibilities of Linked Data and data in general when it is well organized.
--   Linux, Browser standards, new specifications and Open Source
--   Solid and RDF, I was member of the rdfjs/shacl-ui community group under the W3C. Recently I did some bounties for [Comunica](https://comunica.dev/association/bounties/) and [PLDN](https://github.com/pldn/LDWizard/issues/59). A while ago I visited the Solid Symposium in Neurenberg.
--   Data visualizations, interactive maps and stitching together data to be able to create great 
-
 About me
 ---------------
 
-Hello I am Daniël Beeke, a software engineer that loves to solve problems for people and organizations. I love to learn and pass on knowledge.
+I am a software engineer that loves to solve problems for people and organizations. 
 
-I am a generalist and love to learn new technologies. I can rapidly code together prototypes and proof if an idea might work. Over the years I have learned that communication skills might be more or at least equally as important as the programming skills.
+I am a generalist and love to learn new technologies. I can rapidly code together prototypes and proof if an idea might work. Over the years I learned that communication skills are at least equally as important as the programming skills. 
 
 I am always looking for the next side project, from an app to showcase [the influence of philosophers](https://influence.danielbeeke.nl) to an app that tells if you should [walk or run](https://ov.danielbeeke.nl) to catch the next bus.
 
+Things I am passionate about
+-------------------------
+
+-   I love well structured data and have worked the last three years with RDF and Linked Data in a project that has similarities to Solid. I did some bounties for [Comunica](https://comunica.dev/association/bounties/) and [PLDN](https://github.com/pldn/LDWizard/issues/59).
+-   I enjoy giving talks at meetups and getting into contact with other enthusiastic programmers.
+-   In past jobs I enjoyed it a lot to coach interns. I love the interactions and it is very fulfilling to see people built stuff and to see them grow.
+
+
 Work Experience
 ---------------
+
+Over the last 15 years I have worked in different companies and organizations.
 
 ### Software Engineer at _MediaWorks_
 
