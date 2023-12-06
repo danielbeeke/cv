@@ -50,7 +50,7 @@ const output = (htmlBlocks: { [key: string]: string }, language: string) => `
         <div class="inner">
             <section class="software-engineer">
                 ${htmlBlocks['software-engineer']}
-                <a class="language-link" href="/${language === 'en' ? 'nl' : 'en'}">${language === 'en' ? 'Nederlandse versie' : 'English version'}</a>
+                // <a class="language-link" href="/${language === 'en' ? 'nl' : 'en'}">${language === 'en' ? 'Nederlandse versie' : 'English version'}</a>
             </section>
         </div>
     </aside>
