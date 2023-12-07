@@ -1,0 +1,162 @@
+:root {
+    --green-dark: rgb(23, 57, 23);
+    --green-light: rgb(195, 211, 195);
+    --green: rgb(57, 112, 57);
+    --green-text: rgb(234, 253, 234);
+}
+
+body {
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 1.6;
+    padding: 0;
+    margin: 0;
+}
+
+@media (min-width: 900px) {
+    body {
+        display: grid;
+        gap: 2em;
+        grid-template-areas: "spacerLeft left right spacerRight";
+        grid-template-columns: 1fr minmax(200px, 350px) minmax(400px, 900px) 1fr;    
+    }    
+}
+
+.left {
+    grid-area: left;
+    margin-bottom: 2em;
+    padding-inline: 2em;
+
+    @media (min-width: 900px) {
+        padding-inline: 0;
+    }
+
+    .inner {
+        position: sticky;
+        top: 0;
+        margin-bottom: auto;
+        background-color: var(--green-dark);
+        color: var(--green-text);
+        padding-block: 3em;
+        padding-inline: 2em;
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+    }
+
+    h2 {
+        line-height: 1.4;
+        margin-top: 0;
+    }
+
+    &,
+    h2,
+    a {
+        color: var(--green-text);
+    }
+
+    img {
+        width: 160px;
+        border-radius: 50%;
+    }
+
+    .language-link {
+        font-style: italic;
+    }    
+}
+
+.right {
+    background-color: white;
+    grid-area: right;
+    padding-inline: 2em;
+    padding-bottom: 3em;
+
+    h2 {
+        padding-top: 2em;
+        padding-bottom: 0;
+    }
+}
+
+ul {
+    padding-left: 1em;
+}
+
+a {
+    color: var(--green);
+}
+
+h2, h3 {
+    color: var(--green-dark);
+}
+
+.timeline {
+    position: relative;
+    margin-top: 2em;
+    
+    h3  + p > em {
+        font-size: .9em;
+        color: var(--green);
+    }
+
+    &::after {
+        content: '';
+        position: absolute;
+        display: block;
+        top: 14px;
+        border-radius: 10px;
+        width: 12px;
+        left: 0px;
+        height: 100%;
+        background-color: var(--green-light);
+    }
+
+    h3,
+    h3 + p {
+        margin-left: 34px;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+
+    ul + h3 {
+        margin-top: 3em;
+    }
+
+    p, ul {
+        margin-left: 60px;
+    }
+
+    h3:before {
+        display: block;
+        width: 12px;
+        height: 12px;
+        border-radius: 50%;
+        position: absolute;
+        content: '';
+        background-color: var(--green-dark);
+        left: 0;
+        margin-top: 12px;
+        z-index: 1;
+    }
+
+}
+
+.about-me {
+    background-color: var(--green-light);
+    padding-inline: 2em;
+    padding-block: 2em;
+    border-radius: 5px;
+
+    @media (min-width: 900px) {
+        border-top-left-radius: 0;
+        border-top-right-radius: 0;    
+    }
+
+    h2 {
+        padding-top: 0;
+    }
+}
+
+.work-experience {
+    h2 {
+        font-size: 1.8em;
+    }
+}
