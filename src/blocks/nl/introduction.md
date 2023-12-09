@@ -1,5 +1,5 @@
 -   **Geboortedatum:** 07-01-1990
--   **Relevante functies:** Applicatiearchitect, Fullstack Software Engineer, Teamleider, Mentor, Consultant
+-   **Geschikte functies:** Applicatiearchitect, Fullstack Software Engineer, Teamleider, Mentor, Consultant
 -   **Soft skills:** Analytisch, gedreven, betrokken, stressbestendig, verantwoordelijk, flexibel, ervaring met werken in een internationaal team
 
 
