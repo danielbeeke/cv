@@ -1,4 +1,4 @@
-Things I am passionate about
+Things I am passionate about 🎉
 -------------------------
 
 -   I love well structured data and have worked the last three years with RDF and Linked Data in a project that has similarities to Solid. I did some bounties for [Comunica](https://comunica.dev/association/bounties/) and [PLDN](https://github.com/pldn/LDWizard/issues/59).

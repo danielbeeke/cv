@@ -1,4 +1,4 @@
-Work Experience
+Work Experience 🗓️
 ---------------
 
 Over the last 15 years I have worked in different companies and organizations.

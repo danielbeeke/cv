@@ -1,4 +1,4 @@
-Samenvatting
+Skills ✨
 -------------------------
 
 -   **Voorkeursstack:** TypeScript (Frontend en Backend), Uitgebreide ervaring met Deno en NodeJS

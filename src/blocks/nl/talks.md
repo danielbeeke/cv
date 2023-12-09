@@ -1,7 +1,9 @@
-Talks
+Talks 📢
 -----
 
 Ik geef graag talks op meetups.
+
+![Talk](/talk2.jpeg)
 
 -   ViennaJS: [Querying Wikipedia for Real Influencers](https://www.youtube.com/live/MiROHWXA5lo?feature=shared&t=4065) / [slides](https://danielbeeke.nl/querying-wikipedia/)
 -   ViennaJS: [Fluent Interfaces](https://www.youtube.com/watch?v=5e2xpsAzYNI) / [slides](https://danielbeeke.nl/fluent-interfaces/)

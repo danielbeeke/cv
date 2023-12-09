@@ -1,6 +1,6 @@
 :root {
     --green-dark: rgb(23, 57, 23);
-    --green-light: rgb(195, 211, 195);
+    --green-light: rgb(235, 242, 235);
     --green: rgb(57, 112, 57);
     --green-text: rgb(234, 253, 234);
     --side: 1em;
@@ -38,6 +38,14 @@ body {
     margin-bottom: 2em;
     padding-inline: 0;
 
+    svg {
+        width: 16px;
+        height: 16px;
+        position: relative;
+        top: 3px;
+        margin-right: .5em;
+    }
+
     .inner {
         position: sticky;
         top: 0;
@@ -46,8 +54,11 @@ body {
         color: var(--green-text);
         padding-bottom: 1em;
         padding-inline: var(--side);
-        border-bottom-left-radius: 20px;
-        border-bottom-right-radius: 20px;
+
+        @media (min-width: 900px) {
+            border-bottom-left-radius: 20px;
+            border-bottom-right-radius: 20px;
+        }
     }
 
     .introduction {
@@ -138,6 +149,10 @@ h2, h3 {
 
     p, ul {
         margin-left: var(--jump);
+    }
+
+    h3 {
+        line-height: 1.1;
     }
 
     h3:before {
@@ -233,3 +248,16 @@ h2, h3 {
         display: block;
     }
 }
+
+.talks {
+    img {
+        max-width: 100%;
+        width: 470px;
+        border-radius: 20px;
+    }
+}
+
+li::marker {
+    color: var(--green-dark);
+}
+  

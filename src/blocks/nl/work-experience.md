@@ -1,4 +1,4 @@
-Werkervaring
+Werkervaring 🗓️
 ---------------
 
 In de afgelopen 15 jaar heb ik bij verschillende bedrijven en organisaties gewerkt.

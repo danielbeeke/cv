@@ -1,4 +1,4 @@
-Summary
+Skills ✨
 -------------------------
 
 -   **Preferred Stack:** TypeScript (Frontend and Backend), Extensive Deno and NodeJS Experience
