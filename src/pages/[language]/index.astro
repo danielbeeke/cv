@@ -1,0 +1,51 @@
+---
+import SiteLayout from '../../layouts/SiteLayout.astro';
+const { language } = Astro.params;
+
+const blocks = language === 'en' ? await Astro.glob('../../blocks/en/*.md') : await Astro.glob('../../blocks/nl/*.md');
+const indexedBlocks = Object.fromEntries(blocks.map(block => {
+    const name = block.file.split('/').pop()?.replace('.md', '')
+    return [name, block.compiledContent()]
+}))
+
+export function getStaticPaths() {
+  return [
+    {params: {language: 'nl'}},
+    {params: {language: 'en'}}
+  ];
+}
+
+---
+<SiteLayout language={language} title="">
+
+    <header class="mobile-header">
+        <h2>CV Daniël Beeke,<br /><span class="title">Software Engineer</span></h2>
+        <img src="/daniel.jpeg" />    
+    </header>
+
+    <div class="left">
+
+        <div class="inner">
+
+            <header class="desktop-header">
+                <h2>CV Daniël Beeke,<br />Software Engineer</h2>
+                <img src="/daniel.jpeg" />    
+            </header>
+
+            <div class="introduction" set:html={indexedBlocks['introduction']} />
+        </div>
+    </div>
+    <div class="right">
+        {[
+            'about-me', 
+            'summary', 
+            'passionate',
+            'work-experience',
+            'study',
+            'talks',
+            'code-references'
+        ]
+            .map(blockName => <div class={blockName} set:html={indexedBlocks[blockName]} />)}
+    </div>
+
+</SiteLayout>

@@ -3,14 +3,25 @@
     --green-light: rgb(195, 211, 195);
     --green: rgb(57, 112, 57);
     --green-text: rgb(234, 253, 234);
+    --side: 1em;
+    --jump: 2em;
+
+    @media (min-width: 900px) {
+        --side: 2em;
+        --jump: 3em;
+    }
 }
 
 body {
     font-family: Roboto, Arial, Helvetica, sans-serif;
-    font-size: 18px;
-    line-height: 1.6;
+    font-size: 16px;
+    line-height: 1.7;
     padding: 0;
     margin: 0;
+
+    @media (min-width: 900px) {
+        font-size: 18px;
+    }
 }
 
 @media (min-width: 900px) {
@@ -25,11 +36,7 @@ body {
 .left {
     grid-area: left;
     margin-bottom: 2em;
-    padding-inline: 2em;
-
-    @media (min-width: 900px) {
-        padding-inline: 0;
-    }
+    padding-inline: 0;
 
     .inner {
         position: sticky;
@@ -37,10 +44,14 @@ body {
         margin-bottom: auto;
         background-color: var(--green-dark);
         color: var(--green-text);
-        padding-block: 3em;
-        padding-inline: 2em;
+        padding-bottom: 1em;
+        padding-inline: var(--side);
         border-bottom-left-radius: 20px;
         border-bottom-right-radius: 20px;
+    }
+
+    .introduction {
+        padding-top: 1px;
     }
 
     h2 {
@@ -55,7 +66,7 @@ body {
     }
 
     img {
-        width: 160px;
+        width: 140px;
         border-radius: 50%;
     }
 
@@ -67,7 +78,7 @@ body {
 .right {
     background-color: white;
     grid-area: right;
-    padding-inline: 2em;
+    padding-inline: var(--side);
     padding-bottom: 3em;
 
     h2 {
@@ -101,12 +112,17 @@ h2, h3 {
         content: '';
         position: absolute;
         display: block;
-        top: 14px;
         border-radius: 10px;
-        width: 12px;
-        left: 0px;
+        top: 14px;
+        width: 6px;
+        left: 3px;
         height: 100%;
         background-color: var(--green-light);
+
+        @media (min-width: 900px) {
+            width: 12px;
+            left: 0px;
+        }
     }
 
     h3,
@@ -121,42 +137,99 @@ h2, h3 {
     }
 
     p, ul {
-        margin-left: 60px;
+        margin-left: var(--jump);
     }
 
     h3:before {
         display: block;
-        width: 12px;
-        height: 12px;
+        width: 8px;
+        height: 8px;
         border-radius: 50%;
         position: absolute;
         content: '';
         background-color: var(--green-dark);
-        left: 0;
+        left: 2px;
         margin-top: 12px;
         z-index: 1;
+
+        @media (min-width: 900px) {
+            left: 0;
+            width: 12px;
+            height: 12px;
+        }
+
     }
 
 }
 
 .about-me {
     background-color: var(--green-light);
-    padding-inline: 2em;
+    padding-inline: var(--side);
     padding-block: 2em;
     border-radius: 5px;
+
+    h2 {
+        padding-top: 0;
+        margin-top: 0;
+    }
 
     @media (min-width: 900px) {
         border-top-left-radius: 0;
         border-top-right-radius: 0;    
+
+        h2 {
+            margin-top: 1em;
+        }
+    }
+
+}
+
+.mobile-header {
+    padding-block: 1em;
+    position: sticky;
+    top: 0;
+    z-index: 11;
+    gap: 1em;
+    padding-inline: var(--side);
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: start;
+    align-items: center;
+    background-color: var(--green-dark);
+    box-shadow: 0 5px 5px rgba(23, 57, 23, .3);
+    
+    .title {
+        font-weight: 300;
+        font-size: 16px;
     }
 
     h2 {
-        padding-top: 0;
+        color: var(--green-text);
+        font-size: 1.2em;
+        line-height: 1;
+        margin-block: 0;
+    }
+
+    img {
+        width: 50px;
+        border-radius: 50%;
+    }
+
+    @media (min-width: 900px) {
     }
 }
 
-.work-experience {
-    h2 {
-        font-size: 1.8em;
+.desktop-header {
+    display: none;
+    padding-top: 3em;
+}
+
+@media (min-width: 900px) {
+    .mobile-header {
+        display: none;
+    }
+
+    .desktop-header {
+        display: block;
     }
 }

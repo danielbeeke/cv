@@ -1,0 +1,12 @@
+---
+import SiteLayout from '../layouts/SiteLayout.astro';
+
+---
+<script>
+    let language = navigator?.language?.split('-')?.[0] ?? 'en'
+    if (!['nl', 'en'].includes(language)) language = 'en'
+
+    /** @ts-ignore */
+    if (location.pathname === '/') location = `/${language}`
+</script>
+<SiteLayout />
