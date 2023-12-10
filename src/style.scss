@@ -277,9 +277,6 @@ h2, h3 {
         width: 50px;
         border-radius: 10px;
     }
-
-    @media (min-width: 900px) {
-    }
 }
 
 .desktop-header {
@@ -309,3 +306,65 @@ li::marker {
     color: var(--green-dark);
 }
   
+@media print {
+    :root {
+        --jump: 0;
+        --side: 0;
+    }
+
+    body {
+        font-size: 14px;
+    }
+
+    .talks img {
+        display: none;
+    }
+
+    .mobile-header {
+        box-shadow: none;
+
+    }
+
+    .left svg {
+        color: var(--green-dark);
+        width: 10px;
+        height: 10px;
+        position: relative;
+        top: 3px;
+        left: 0;
+    }
+
+    .right {
+        padding-inline: 0;
+
+        h2 {
+            margin: 0;
+            padding-top: 0;
+        }
+    }
+
+    .work-experience {
+        h3,
+        h3 + p {
+            margin-left: 0;
+        }
+    }
+
+    .timeline::after {
+        display: none;
+    }
+
+    .timeline {
+        h3:before {
+            display: none;
+        }
+    }
+
+    astro-dev-toolbar {
+        display: none;
+    }
+
+    .summary, .work-experience {
+        page-break-before: always;
+    }
+}
