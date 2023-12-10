@@ -7,4 +7,4 @@ Ik ben een generalist en hou ervan om nieuwe technologieën te leren. Ik kan sne
 
 Ik ben altijd op zoek naar het volgende sideproject, van een app om [de invloed van filosofen](https://influence.danielbeeke.nl) te laten zien tot een app die aangeeft of je [moet lopen of rennen](https://ov.danielbeeke.nl) om de volgende bus te halen 🏃.
 
-Buiten het werk creëer ik graag dingen; liedjes op mijn gitaar, 3D-pop-upkaarten of houtbewerking. Ik ben sinds 4 jaar getrouwd met Wilma, zij is een grafisch ontwerper. Momenteel werken we allebei als vrijwilliger aan een app genaamd PermaCultr, een app om eenvoudig kaarten te maken voor permacultuurtuinieren 🌿.
+Buiten het werk maak ik graag dingen; liedjes op mijn gitaar, 3D-pop-upkaarten of houtbewerking. Sinds 4 jaar ben ik getrouwd met Wilma. Ze is grafisch ontwerper, soms doen we samen een side project zoals een app om eenvoudig kaarten te maken voor permacultuur tuinieren 🌿.
