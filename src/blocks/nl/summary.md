@@ -6,7 +6,7 @@ Skills ✨
 -   **Agile methodologieën:** Scrum, Kanban, Design Sprints
 -   **Infrastructuur als Code:** Terraform, Docker, Kubernetes, Pulumi
 -   **Testen:** Cypress, Jest, PlayWright, Test Driven Development
--   **Frameworks:** NextJS, Express, Qwik, Turbo, React, Vue
+-   **Frameworks:** NextJS, Express, Qwik, Astro, React, Vue
 -   **CI/CD:** GitLab, Jenkins, Atlassian Software, GitHub
 -   **Cloud:** CloudFlare, AWS, Azure
 -   **Databases:** Apache Jena, MongoDB, MariaDB, PostgreSQL, InfluxDB, SQLite
