@@ -1,6 +1,6 @@
 ---
+import { pwaInfo } from 'virtual:pwa-info'
 import '../style.scss'
-// import { pwaInfo } from 'virtual:pwa-info';
 
 const { language } = Astro.params;
 ---
@@ -13,14 +13,13 @@ const { language } = Astro.params;
 		<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 		<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 		<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-		<link rel="manifest" href="/manifest.json">
 		<meta name="msapplication-TileColor" content="#173917">
 		<meta name="theme-color" content="#173917">
 		<meta name="apple-mobile-web-app-title" content="CV Daniël Beeke">
 		<meta name="apple-mobile-web-app-capable" content="yes">
 		<meta name="apple-mobile-web-app-status-bar-style" content="black or black-translucent">
 		<script src="/src/pwa.ts"></script>
-		<!-- { pwaInfo && <Fragment set:html={pwaInfo.webManifest.linkTag} /> } -->
+		{ pwaInfo && <Fragment set:html={pwaInfo.webManifest.linkTag} /> }
 	</head>
 	<body>
         <slot />
