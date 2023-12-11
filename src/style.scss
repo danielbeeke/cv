@@ -203,27 +203,6 @@ h2, h3 {
         line-height: 1.1;
     }
 
-    // h3:before {
-    //     display: block;
-    //     width: 8px;
-    //     height: 8px;
-    //     border-radius: 50%;
-    //     position: absolute;
-    //     content: '';
-    //     background-color: var(--green-dark);
-    //     left: 2px;
-    //     margin-top: 7px;
-    //     z-index: 1;
-
-    //     @media (min-width: 900px) {
-    //         left: 0;
-    //         margin-top: 6px;
-    //         width: 12px;
-    //         height: 12px;
-    //     }
-
-    // }
-
 }
 
 .about-me {
@@ -306,6 +285,34 @@ h2, h3 {
 
 details {
     margin-bottom: 3em;
+    position: relative;
+
+    &:after {
+        content: '';
+        display: block;
+        width: 100%;
+        height: calc(100% + 30px);
+        position: absolute;
+        top: -15px;
+        border-radius: 10px;
+        opacity: 0;
+        left: 1em;
+        z-index: -1;
+        background-color: var(--green-light);
+    }
+
+
+    &:not([open]) {
+        transition: color .2s ease-in-out;
+
+        h3, em {
+            transition: color .2s ease-in-out;
+        }
+    
+        &:after {
+            transition: opacity .2s ease-in-out, color .2s ease-in-out;
+        }
+    }
 
     summary {
         user-select: none;
@@ -326,12 +333,15 @@ details {
             transform: scaleY(.7) rotate(-135deg);
             transform-origin: 25% 75%;
             z-index: 10;
-            transition: .25s transform ease;
+            transition: .25s all ease;
         }
 
         &:after {
             margin-left: 34px;
             font-style: italic;
+            display: inline-block;
+            // padding: 5px 10px;
+            // border-radius: 5px;
         }   
     }
 
@@ -348,6 +358,12 @@ details {
             &:after {
                 display: none;
             }    
+        }
+    }
+
+    &:not([open]):hover {
+        &:after {
+            opacity: 1;
         }
     }
 }
