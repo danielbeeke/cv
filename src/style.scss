@@ -360,10 +360,13 @@ details {
         }
     }
 
-    &:not([open]):hover {
-        &:after {
-            opacity: 1;
+    @media (hover: hover) {
+        &:not([open]):hover {
+            &:after {
+                opacity: 1;
+            }
         }
+    
     }
 }
 
