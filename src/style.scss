@@ -294,7 +294,7 @@ details {
         height: calc(100% + 30px);
         position: absolute;
         top: -15px;
-        border-radius: 10px;
+        border-radius: 5px;
         opacity: 0;
         left: 1em;
         z-index: -1;
@@ -340,8 +340,6 @@ details {
             margin-left: 34px;
             font-style: italic;
             display: inline-block;
-            // padding: 5px 10px;
-            // border-radius: 5px;
         }   
     }
 
