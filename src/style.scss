@@ -240,8 +240,10 @@ h2, h3 {
     }
 
     @media (min-width: 900px) {
+        margin-inline: 0;
         border-top-left-radius: 0;
         border-top-right-radius: 0;    
+        
 
         h2 {
             margin-top: 1em;
