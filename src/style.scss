@@ -381,6 +381,10 @@ html[lang="nl"] details summary {
 .desktop-header {
     display: none;
     padding-top: 3em;
+
+    .title {
+        font-weight: 300;
+    }
 }
 
 @media (min-width: 900px) {
@@ -560,4 +564,24 @@ li::marker {
         }        
     }
 
+}
+
+@media (min-width: 900px) and (max-height: 930px) {
+    .desktop-header {
+        display: flex;
+        flex-direction: row-reverse;
+        justify-content: start;
+        align-items: center;    
+        gap: 1em;
+
+        img {
+            width: 80px;
+            border-radius: 10px;
+        }
+
+        h2 {
+            font-size: 1em;
+            margin-bottom: 0;
+        }
+    }   
 }
