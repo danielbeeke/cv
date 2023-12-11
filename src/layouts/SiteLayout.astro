@@ -20,3 +20,11 @@ const { language } = Astro.params;
         <slot />
     </body>
 </html>
+
+<script>
+	/** @ts-ignore */
+	window.printPdf = () => {
+		document.querySelectorAll('details').forEach(detail => detail.setAttribute('open', ''))
+		window.print()
+	}
+</script>
