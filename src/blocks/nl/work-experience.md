@@ -15,7 +15,7 @@ In de afgelopen 15 jaar heb ik bij verschillende bedrijven en organisaties gewer
 
 -   Gewerkt aan een visionair product, een multi-channel media-app builder en mediabibliotheek met behulp van Deno, Apache Lucene, Apache Jena, enz.
 -   Bouwen van Open Source-tools zoals Bundled Media, een realtime gateway naar media uit verschillende bronnen, waardoor SPARQL-query's mogelijk zijn bovenop realtime geproxyde API-gegevens.
--   Puliceren van NPM-modules: bcp47-picker en @om-mediaworks/shacl-form.
+-   Publiceren van NPM-modules: bcp47-picker en @om-mediaworks/shacl-form.
 -   Infrastructuur als code (Pulumi, Kubernetes, Terraform, Docker)
 -   Backend (Deno, Node.js)
 -   Frontend (React, offline PWA, Fluent interfaces).
