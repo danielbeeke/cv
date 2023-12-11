@@ -1,6 +1,7 @@
 {
     "name": "CV Daniël Beeke",
     "short_name": "CV",
+    "display": "standalone",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
@@ -14,6 +15,5 @@
         }
     ],
     "theme_color": "#173917",
-    "background_color": "#173917",
-    "display": "standalone"
+    "background_color": "#173917"
 }
