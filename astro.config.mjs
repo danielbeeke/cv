@@ -5,6 +5,7 @@ import manifest from './src/manifest.json' assert { type: 'json'}
 // https://astro.build/config
 export default defineConfig({
   integrations: [AstroPWA({
+    injectRegister: 'inline',
     registerType: 'autoUpdate',
     manifest,
     workbox: {
@@ -12,7 +13,7 @@ export default defineConfig({
       skipWaiting: true
     },
     devOptions: {
-      enabled: true
+      enabled: false
     }
   })],
   site: 'https://cv.danielbeeke.nl',
