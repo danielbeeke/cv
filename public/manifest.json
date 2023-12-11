@@ -2,6 +2,8 @@
     "name": "CV Daniël Beeke",
     "short_name": "CV",
     "display": "standalone",
+    "display_override": "standalone",
+    "start_url": "/",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
