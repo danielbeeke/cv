@@ -1,6 +1,8 @@
 import { defineConfig } from 'astro/config';
+import AstroPWA from '@vite-pwa/astro'
 
 // https://astro.build/config
 export default defineConfig({
-    site: 'https://cv.danielbeeke.nl',
-  })
+  integrations: [AstroPWA()],
+  site: 'https://cv.danielbeeke.nl',
+})

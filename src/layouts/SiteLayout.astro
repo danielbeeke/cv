@@ -1,5 +1,6 @@
 ---
 import '../style.scss'
+import { pwaInfo } from 'virtual:pwa-info';
 
 const { language } = Astro.params;
 ---
@@ -18,6 +19,8 @@ const { language } = Astro.params;
 		<meta name="apple-mobile-web-app-title" content="CV Daniël Beeke">
 		<meta name="apple-mobile-web-app-capable" content="yes">
 		<meta name="apple-mobile-web-app-status-bar-style" content="black or black-translucent">
+		<script src="/src/pwa.ts"></script>
+		{ pwaInfo && <Fragment set:html={pwaInfo.webManifest.linkTag} /> }
 	</head>
 	<body>
         <slot />
@@ -30,4 +33,5 @@ const { language } = Astro.params;
 		document.querySelectorAll('details').forEach(detail => detail.setAttribute('open', ''))
 		window.print()
 	}
+
 </script>

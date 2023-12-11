@@ -15,6 +15,7 @@
     "typescript": "^5.3.3"
   },
   "devDependencies": {
+    "@vite-pwa/astro": "^0.2.0",
     "sass": "^1.69.5"
   }
 }
