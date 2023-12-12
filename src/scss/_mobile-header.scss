@@ -1,0 +1,45 @@
+.mobile-header {
+    padding-block: 1em;
+    position: sticky;
+    top: 0;
+    z-index: 11;
+    gap: 1em;
+    padding-inline: var(--side);
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: start;
+    align-items: center;
+    background-color: var(--green-dark);
+    box-shadow: 0 5px 10px var(--green-dark-transparent);
+    background-image: var(--geoBackground);
+
+    &:after {
+        content: '';
+        display: block;
+        background-color: var(--green-dark);
+        height: 100%;
+        width: 100%;
+        position: absolute;
+        left: 0;
+        top: 0;
+        z-index: -1;
+        opacity: .8;
+    }
+
+    .title {
+        font-weight: 300;
+        font-size: 16px;
+    }
+
+    h2 {
+        color: var(--green-text);
+        font-size: 1.2em;
+        line-height: 1;
+        margin-block: 0;
+    }
+
+    img {
+        width: 50px;
+        border-radius: 10px;
+    }
+}

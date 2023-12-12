@@ -1,0 +1,26 @@
+.print-button {
+    display: block;
+    appearance: none;
+    background-color: transparent;
+    border: 1px solid var(--white);
+    color: var(--white);
+    padding: .7em;
+    border-radius: 5px;
+    font-size: .8em;
+    cursor: pointer;
+    margin-top: 2em;
+    display: none;
+
+    svg {
+        margin-left: .5em;
+    }
+
+    &:hover {
+        background-color: var(--white);
+        color: var(--green-dark);
+    }
+
+    @media (min-width: 900px) {
+        display: block;
+    }
+}

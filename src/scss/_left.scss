@@ -1,0 +1,83 @@
+.left {
+    grid-area: left;
+    padding-inline: 0;
+
+    @media (min-width: 900px) {
+        margin-bottom: 2em;
+    }
+
+    svg {
+        width: 11px;
+        height: 11px;
+        margin-right: 2px;
+        position: relative;
+        left: 0px;
+        @media (min-width: 900px) {
+            width: 14px;
+            top: 2px;
+            height: 14px;
+            margin-right: 1px;
+        }
+    }
+
+    li::marker {
+        color: var(--green);
+    }
+    
+
+    .inner {
+        position: sticky;
+        top: 0;
+        margin-bottom: auto;
+        background-color: var(--green-dark);
+        background-image: var(--geoBackground);
+        background-attachment: fixed;
+        color: var(--green-text);
+        padding-bottom: 1em;
+        padding-inline: var(--side);
+
+        &:after {
+            content: '';
+            display: block;
+            background-color: var(--green-dark);
+            height: 100%;
+            width: 100%;
+            position: absolute;
+            left: 0;
+            top: 0;
+            z-index: -1;
+            opacity: .8;
+        }
+
+        @media (min-width: 900px) {
+            &, &:after {
+                border-bottom-left-radius: 20px;
+                border-bottom-right-radius: 20px;    
+            }
+        }
+    }
+
+    .introduction {
+        padding-top: 1px;
+    }
+
+    h2 {
+        line-height: 1.4;
+        margin-top: 0;
+    }
+
+    &,
+    h2,
+    a {
+        color: var(--green-text);
+    }
+
+    img {
+        width: 140px;
+        border-radius: 10px;
+    }
+
+    .language-link {
+        font-style: italic;
+    }    
+}

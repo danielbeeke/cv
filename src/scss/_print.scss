@@ -1,0 +1,129 @@
+@media print {
+    :root {
+        --jump: 0;
+        --side: 0;
+        --green-text: black;
+    }
+
+    body {
+        font-size: 14px;
+        padding: 5em 12em 0em 12em;
+    }
+    
+
+    summary:before,
+    summary:after {display: none !important;}
+
+    @page { size: auto;  margin: 0mm; }
+
+    .summary,
+    #team-lead-at-fonkel,
+    #teamleider-bij-fonkel,
+    .work-experience,
+    .study {
+        page-break-before: always;
+        padding-top: 5em;
+    }
+
+    .talks img {
+        max-width: 300px;
+    }
+
+    .mobile-header {
+        position: relative;
+        box-shadow: none;
+
+    }
+
+    .left {
+        margin-bottom: 0;
+        color: var(--green-text);
+
+        .inner {
+            margin-bottom: 0;
+            padding-bottom: 0;
+        }
+
+        svg {
+            color: var(--green-dark);
+            width: 10px;
+            height: 10px;
+            position: relative;
+            top: 3px;
+            left: 0;
+        }
+    }
+
+    .right {
+        padding-inline: 0;
+
+        h2 {
+            margin: 0 !important;
+            padding-top: 1em !important;
+        }
+    }
+
+    .work-experience {
+        h3,
+        h3 + p {
+            margin-left: 0;
+        }
+    }
+
+    .timeline::after {
+        display: none;
+    }
+
+    .timeline {
+        h3:before {
+            display: none;
+        }
+        ul + h3 {
+            margin-top: 2em;
+        }
+    }
+
+    h2#about-me {
+        padding-top: 0;
+    }
+
+    .about-me {
+        padding-inline: 0;
+        padding-block: 0;    
+
+        p:first-of-type {
+            font-size: inherit;
+            color: inherit;
+            font-weight: normal;
+        }
+
+    }
+
+    .print-button,
+    astro-dev-toolbar {
+        display: none;
+    }
+
+
+    .left {
+        p:nth-last-child(2)  {
+            a:nth-of-type(2) ~ a {
+                display: inline-block;
+                visibility: hidden;
+                font-size: 0px;
+        
+                &::after { 
+                    font-size: .9rem;
+                    content: attr(href);
+                    visibility: visible;
+                }     
+            }
+
+            a {
+                font-size: .9rem;
+                text-decoration: none;
+            }
+        }        
+    }
+
+}

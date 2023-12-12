@@ -1,0 +1,97 @@
+details {
+    margin-bottom: 3em;
+    position: relative;
+    margin-right: 1em;
+
+    &:after {
+        content: '';
+        display: block;
+        width: 100%;
+        height: calc(100% + 30px);
+        position: absolute;
+        top: -15px;
+        border-radius: 5px;
+        opacity: 0;
+        left: 1em;
+        z-index: -1;
+        background-color: var(--green-light);
+    }
+
+    &:not([open]) {
+        transition: color .2s ease-in-out;
+
+        h3, em {
+            transition: color .2s ease-in-out;
+        }
+    
+        &:after {
+            transition: opacity .2s ease-in-out, color .2s ease-in-out;
+        }
+    }
+
+    summary {
+        user-select: none;
+        display: block;
+        position: relative;
+        cursor: pointer;
+
+        &:before {
+            content: '';
+            display: block;
+            height: 14px;
+            width: 14px;
+            background-color: var(--green-dark);
+            position: absolute;
+            top: 1px;
+            left: 3px;
+            clip-path: polygon(0% 0%, 100% 100%, 0% 100%);
+            transform: scaleY(.7) rotate(-135deg);
+            transform-origin: 25% 75%;
+            z-index: 10;
+            transition: .25s all ease;
+        }
+
+        &:after {
+            margin-left: 34px;
+            font-style: italic;
+            display: inline-block;
+        }   
+    }
+
+    summary::-webkit-details-marker {
+        display:none;
+    }
+
+    &[open] {
+        summary {
+            &:before {
+                transform: scaleX(.7) rotate(-45deg);
+            }
+            
+            &:after {
+                display: none;
+            }    
+        }
+    }
+
+    @media (hover: hover) {
+        &:not([open]):hover {
+            &:after {
+                opacity: 1;
+            }
+        }
+    
+    }
+}
+
+html[lang="en"] details summary {
+    &:after {
+        content: '…show details';
+    }
+}
+
+html[lang="nl"] details summary {
+    &:after {
+        content: '…toon details';
+    }
+}

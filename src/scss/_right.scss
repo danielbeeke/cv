@@ -1,0 +1,10 @@
+.right {
+    grid-area: right;
+    padding-inline: var(--side);
+    padding-bottom: 3em;
+
+    h2 {
+        padding-top: 2em;
+        padding-bottom: 0;
+    }
+}

@@ -1,0 +1,31 @@
+.about-me {
+    background-color: var(--green-light);
+    padding-inline: var(--side);
+    border-radius: 5px;
+    padding-block: 2em;
+    margin-inline: calc(var(--side) * -1);
+
+    h2 {
+        padding-top: 0;
+        margin-top: 0;
+    }
+
+    p:first-of-type {
+        font-size: 1.2em;
+        color: var(--green);
+        font-weight: bold;
+        position: relative;
+    }
+
+    @media (min-width: 900px) {
+        margin-inline: 0;
+        border-top-left-radius: 0;
+        border-top-right-radius: 0;    
+        
+
+        h2 {
+            margin-top: 1em;
+        }
+    }
+
+}

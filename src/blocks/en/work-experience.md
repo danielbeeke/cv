@@ -38,6 +38,10 @@ Over the last 15 years I have worked in different companies and organizations.
 -   Deep integration with ExactOnline, consolidating various financial ledgers.
 -   Integrated over 20 API integrations for hosting products such as virtual data centers, VPS, DNS, hosting packages, Cloud backup systems, etc.
 -   Created an analytics product to make it possible to bill virtual data center per minute, used InfluxDB for this.
+<!-- 
+> Sed dignissim arcu eu volutpat efficitur. Vivamus non malesuada mauris, eget accumsan quam. Aliquam et ipsum cursus, blandit massa nec, consequat mi. Duis ut orci in ligula rutrum accumsan sed non urna. Donec ac turpis tempor, pellentesque purus ac, vulputate nunc. Nullam pulvinar nec est ut hendrerit. Ut et pharetra nisl. Nunc luctus lobortis ante, eget mattis lectus. Nam viverra nulla et gravida ullamcorper. Nunc rhoncus, eros consectetur scelerisque tempor, arcu diam commodo neque, vel bibendum purus odio a ligula. 
+>
+> Harm Jan Stam, <br />ex-team lead at Fundaments ![test](/harmjan.jpeg) -->
 
 </details>
 
