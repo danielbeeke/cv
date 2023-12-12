@@ -37,7 +37,7 @@ body {
         display: grid;
         gap: 2em;
         grid-template-areas: "spacerLeft left right spacerRight";
-        grid-template-columns: 1fr minmax(200px, 350px) minmax(400px, 900px) 1fr;    
+        grid-template-columns: 1fr minmax(200px, 400px) minmax(400px, 1000px) 1fr;    
     }    
 }
 
