@@ -36,6 +36,16 @@ In de afgelopen 15 jaar heb ik bij verschillende bedrijven en organisaties gewer
 -   Geïntegreerd met meer dan 20 API-integraties voor hostingproducten zoals virtuele datacenters, VPS, DNS, hostingpakketten, Cloud back-ups, enz.
 -   Een analytics-product gemaakt om het mogelijk te maken virtuele datacenters per minuut te factureren, waarbij InfluxDB werd gebruikt.
 
+> Daniël Beeke is een toegewijde collega met wie ik van 2018 tot begin 2021 met veel plezier heb samengewerkt. Samen zijn we als klein maar dynamisch team begonnen aan het uitdagende traject van het ontwerpen en ontwikkelen van een nieuw klantportaal en backoffice.
+>
+> De technische vaardigheid en innovatieve mentaliteit van Daniël speelden een belangrijke rol bij het navigeren door de complexiteit van ons project. Samen hebben we de applicatie succesvol geïntegreerd met een ERP-systeem, virtualisatieplatforms en hostingcontrolepanelen.
+>
+> We waren een klein team waarbij elk lid meerdere petten moest dragen, en Daniel blonk uit in elke rol. Zijn vermogen om de fijne kneepjes van onze zakelijke behoeften te begrijpen en deze te vertalen in ontwerpen en functies voor het klantenportaal en de backoffice was een bewijs van zijn expertise.
+>
+> Samenwerken met Daniël was een voorrecht en ik ben dankbaar voor de kans. Zijn technisch inzicht, probleemoplossend vermogen en samenwerkingskarakter maken hem tot een onmisbare aanwinst voor elk project. Ik beveel Daniël van harte aan vanwege zijn niet aflatende toewijding en vaardigheid in het ontwerpen en ontwikkelen van complexe oplossingen.
+>
+> Harm Jan Stam, <br />ex-teamleider bij Fundaments ![Harm Jan Stam](/harmjan.jpeg)
+
 </details>
 <details><summary>
 

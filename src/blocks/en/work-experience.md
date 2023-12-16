@@ -38,10 +38,25 @@ Over the last 15 years I have worked in different companies and organizations.
 -   Deep integration with ExactOnline, consolidating various financial ledgers.
 -   Integrated over 20 API integrations for hosting products such as virtual data centers, VPS, DNS, hosting packages, Cloud backup systems, etc.
 -   Created an analytics product to make it possible to bill virtual data center per minute, used InfluxDB for this.
-<!-- 
-> Sed dignissim arcu eu volutpat efficitur. Vivamus non malesuada mauris, eget accumsan quam. Aliquam et ipsum cursus, blandit massa nec, consequat mi. Duis ut orci in ligula rutrum accumsan sed non urna. Donec ac turpis tempor, pellentesque purus ac, vulputate nunc. Nullam pulvinar nec est ut hendrerit. Ut et pharetra nisl. Nunc luctus lobortis ante, eget mattis lectus. Nam viverra nulla et gravida ullamcorper. Nunc rhoncus, eros consectetur scelerisque tempor, arcu diam commodo neque, vel bibendum purus odio a ligula. 
+
+> Daniël Beeke is a dedicated colleague with whom I had the pleasure of working from 2018 to
+early 2021. Together, as a small but dynamic team, we embarked on the challenging journey of
+designing and developing a new customer portal and back office.
 >
-> Harm Jan Stam, <br />ex-team lead at Fundaments ![test](/harmjan.jpeg) -->
+> Daniël's technical proficiency and innovative mindset were instrumental in navigating the
+complexities of our project. Together, we successfully integrated the application with an ERP
+system, virtualization platforms and hosting control panels.
+>
+> We were a small team that required each member to wear multiple hats, and Daniel excelled in
+every role. His ability to grasp the intricacies of our business needs and translate them into
+designs and features for the customer portal and back office showcased his expertise.
+>
+> Working alongside Daniël was a privilege, and I am grateful for the opportunity. His technical
+insight, problem-solving capabilities, and collaborative nature make him an indispensable asset
+to any project. I wholeheartedly recommend Daniël for his unwavering dedication and
+proficiency in designing and developing complex solutions.
+>
+> Harm Jan Stam, <br />ex-team lead at Fundaments ![Harm Jan Stam](/harmjan.jpeg)
 
 </details>
 
