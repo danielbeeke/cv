@@ -1,9 +1,9 @@
 Over mij
 ---------------
 
-Als software engineer los ik graag problemen op voor mensen 🧑 en organisaties 💼.
+Als software engineer los ik graag problemen op voor mensen 🧑 en organisaties&nbsp;💼.
 
-Ik ben een generalist en hou ervan om nieuwe technologieën te leren. Ik kan snel prototypes maken en uitzoeken of een idee zou kunnen werken. In de loop der jaren heb ik geleerd dat communicatieve vaardigheden 💬 minstens zo belangrijk zijn als programmeervaardigheden.
+Ik ben een generalist en hou ervan om nieuwe technologieën te leren&nbsp;🚀. Ik kan snel prototypes maken en uitzoeken of een idee zou kunnen werken. In de loop der jaren heb ik geleerd dat communicatieve vaardigheden 💬 minstens zo belangrijk zijn als programmeervaardigheden.
 
 Ik ben altijd op zoek naar het volgende sideproject, van een app om [de invloed van filosofen](https://influence.danielbeeke.nl) te laten zien tot een app die aangeeft of je [moet lopen of rennen](https://ov.danielbeeke.nl) om de volgende bus te halen 🏃.
 

@@ -1,9 +1,9 @@
 About me
 ---------------
 
-As a software engineer I love to solve problems for people 🧑 and organizations 💼. 
+As a software engineer I love to solve problems for people 🧑 and organizations&nbsp;💼. 
 
-I am a generalist and always eager to learn new technologies 🚀. I can rapidly code together prototypes and proof if an idea might work. Over the years I learned that communication skills 💬 are at least equally as important as the programming skills. 
+I am a generalist and always eager to learn new technologies&nbsp;🚀. I can rapidly code together prototypes and proof if an idea might work. Over the years I learned that communication skills 💬 are at least equally as important as the programming skills. 
 
 Most of the time I have a side project I am working on, from an app to showcase [the influence of philosophers](https://influence.danielbeeke.nl) to an app that tells if you should [walk or run](https://ov.danielbeeke.nl) to catch the next bus 🏃.
 
