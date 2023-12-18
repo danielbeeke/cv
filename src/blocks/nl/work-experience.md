@@ -5,13 +5,13 @@ In de afgelopen 15 jaar heb ik bij verschillende bedrijven en organisaties gewer
 
 <div class="timeline">
 
-<details><summary>
+<div class="details"><div class="summary">
 
 ### Software Engineer bij _MediaWorks_
 
 *Nov 2020 - Heden*
 
-</summary>
+</div>
 
 -   Gewerkt aan een visionair product, een multi-channel media-app builder en mediabibliotheek met behulp van Deno, Apache Lucene, Apache Jena, enz.
 -   Bouwen van Open Source-tools zoals Bundled Media, een realtime gateway naar media uit verschillende bronnen, waardoor SPARQL-query's mogelijk zijn bovenop realtime geproxyde API-gegevens.
@@ -22,14 +22,14 @@ In de afgelopen 15 jaar heb ik bij verschillende bedrijven en organisaties gewer
 -   Bedreven in testen met PlayWright, Cypress, Jest en de Deno test suite.
 -   Samengewerkt met de rdfjs/shacl-ui-gemeenschapsgroep onder de W3C.
 
-</details>
-<details><summary>
+</div>
+<div class="details"><div class="summary">
 
 ### Software Engineer bij _Fundaments_
 
 *Jun 2018 - Okt 2020*
 
-</summary>
+</div>
 
 -   Samen met een klein team hebben we het klant- en engineerportal voor Oxilion en Fundaments herschreven, een multi-tenant-oplossing. Hierbij hoort ook het migreren van alle technische gegevens uit verschillende systemen naar één systeem.
 -   Diepe integratie met ExactOnline, waarbij diverse financiële grootboeken zijn geconsolideerd.
@@ -44,16 +44,16 @@ In de afgelopen 15 jaar heb ik bij verschillende bedrijven en organisaties gewer
 >
 > Samenwerken met Daniël was een voorrecht en ik ben dankbaar voor de kans. Zijn technisch inzicht, probleemoplossend vermogen en samenwerkingskarakter maken hem tot een onmisbare aanwinst voor elk project. Ik beveel Daniël van harte aan vanwege zijn niet aflatende toewijding en vaardigheid in het ontwerpen en ontwikkelen van complexe oplossingen.
 >
-> Harm Jan Stam, <br />ex-teamleider bij Fundaments ![Harm Jan Stam](/harmjan.jpeg)
+> Harm Jan Stam, <br />teamleider bij Fundaments ![Harm Jan Stam](/harmjan.jpeg)
 
-</details>
-<details><summary>
+</div>
+<div class="details"><div class="summary">
 
 ### Teamleider bij _Fonkel_
 
 *Okt 2012 - Mei 2018*
 
-</summary>
+</div>
 
 -   Leidde een team van 3 tot 6 ontwikkelaars bij het maken van verschillende Drupal- en JavaScript-toepassingen, waaronder interactieve geografische kaarten en inhoudsrijke meertalige Drupal-sites.
 -   Samengewerkt met het Nederlandse ministerie van Financiën aan het prototypen en implementeren van een tool voor inzichten in mensen en organisaties uit verschillende bronnen. Deze tool wordt gebruikt door meer dan 5 afdelingen van de belastingdienst.
@@ -69,14 +69,14 @@ In de afgelopen 15 jaar heb ik bij verschillende bedrijven en organisaties gewer
 >
 > Anoesj Sadraee, <br />collega bij Fonkel ![Anoesj Sadraee](/anoesj.jpeg)
 
-</details>
-<details><summary>
+</div>
+<div class="details"><div class="summary">
 
 ### Drupal Developer bij _GoalGorilla_
 
 *Dec 2010 - Sep 2012*
 
-</summary>
+</div>
 
 -   Gewerkt in een klein team van Drupal-ontwikkelaars.
 -   Gewerkt aan de eerste versie van Open Social, het sociale intranet dat wordt gebruikt door GreenPeace.
@@ -84,17 +84,17 @@ In de afgelopen 15 jaar heb ik bij verschillende bedrijven en organisaties gewer
 -   Verschillende Drupal-modules gemaakt en gepubliceerd op drupal.org.
 -   Diverse websites en toepassingen gemaakt met Drupal 6 en 7.
 
-</details>
-<details><summary>
+</div>
+<div class="details"><div class="summary">
 
 ### Drupal Developer als _Freelancer_
 
 *2008 - 2010*
 
-</summary>
+</div>
 
 -   Een community-platform gebouwd voor de Nederlandse christelijke brancheorganisatie voor psychologen en verschillende Drupal-websites gemaakt voor diverse organisaties.
 
-</details>
+</div>
 
 </div>

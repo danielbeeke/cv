@@ -5,13 +5,13 @@ Over the last 15 years I have worked in different companies and organizations.
 
 <div class="timeline">
 
-<details><summary>
+<div class="details"><div class="summary">
 
 ### Software Engineer at _MediaWorks_
 
 *Nov 2020 - Present*
 
-</summary>
+</div>
 
 -   Worked on a visionary product, a multi-channel media app builder, and media catalog utilizing Deno, Apache Lucene, Apache Jena, etc.
 -   Building Open Source tools like Bundled Media, a real-time gateway to media from various sources, allowing SPARQL query on top of real time proxied API data.
@@ -23,15 +23,15 @@ Over the last 15 years I have worked in different companies and organizations.
 -   Collaborated with the rdfjs/shacl-ui community group under W3C.
 
 
-</details>
+</div>
 
-<details><summary>
+<div class="details"><div class="summary">
 
 ### Software Engineer at _Fundaments_
 
 *Jun 2018 - Oct 2020*
 
-</summary>
+</div>
 
 
 -   Together with a small team we rewrote the customer and engineer portal for Oxilion and Fundaments, a multi-tenant solution. This included a migrating all the technical data from various systems into one. 
@@ -56,17 +56,17 @@ insight, problem-solving capabilities, and collaborative nature make him an indi
 to any project. I wholeheartedly recommend Daniël for his unwavering dedication and
 proficiency in designing and developing complex solutions.
 >
-> Harm Jan Stam, <br />ex-team lead at Fundaments ![Harm Jan Stam](/harmjan.jpeg)
+> Harm Jan Stam, <br />team lead at Fundaments ![Harm Jan Stam](/harmjan.jpeg)
 
-</details>
+</div>
 
-<details><summary>
+<div class="details"><div class="summary">
 
 ### Team Lead at _Fonkel_
 
 *Oct 2012 - May 2018*
 
-</summary>
+</div>
 
 -   Led a team of 3 to 6 developers in creating various Drupal and JavaScript applications, including interactive geographic maps and content-heavy multilingual Drupal sites.
 -   Worked with the Dutch Tax Ministry on prototyping and implementing a tool for insights into people and organizations from various sources. This tool is used by more than 5 departments of the Dutch Tax Ministry.
@@ -82,15 +82,15 @@ proficiency in designing and developing complex solutions.
 >
 > Anoesj Sadraee, <br />colleague at Fonkel ![Anoesj Sadraee](/anoesj.jpeg)
 
-</details>
+</div>
 
-<details><summary>
+<div class="details"><div class="summary">
 
 ### Drupal Developer at _GoalGorilla_
 
 *Dec 2010 - Sep 2012*
 
-</summary>
+</div>
 
 - Worked in a small team of Drupal developers
 - Worked on the first version of Open Social, the social intranet used by GreenPeace.
@@ -98,19 +98,19 @@ proficiency in designing and developing complex solutions.
 - Created various Drupal modules and published those to drupal.org
 - Made various websites and applications with Drupal 6 and 7.
 
-</details>
+</div>
 
-<details><summary>
+<div class="details"><div class="summary">
 
 ### Drupal Developer as _Freelancer_
 
 *2008 - 2010*
 
-</summary>
+</div>
 
 
 -   Built a community platform for the Dutch Christian branch organization for psychologists and several Drupal websites for various organizations.
 
-</details>
+</div>
 
 </div>

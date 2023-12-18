@@ -6,6 +6,9 @@ blockquote {
     border-radius: 8px;
     background-color: var(--green-light);
     position: relative;
+    display: block;
+    transition: all .3s ease-in-out !important;
+    padding-bottom: 8em;
 
     p:nth-last-child(2):after,
     p:first-child:before {
@@ -54,6 +57,17 @@ blockquote {
         font-style: italic;
         font-weight: bold;
         color: var(--green);
+        position: absolute;
+        bottom: 0;
+        padding-inline: inherit;
+        padding-bottom: 2em;
+        width: 100%;
+        box-sizing: border-box;
+        left: 0;
+        z-index: 2;
+        @media not print {
+            text-shadow: 0 0 20px var(--green-light), 0 0 10px var(--green-light), 10px 0 5px var(--green-light), -10px 0 5px var(--green-light);
+        }
     }
 
     img {
@@ -65,7 +79,7 @@ blockquote {
 
     @media (min-width: 900px) {
         padding-inline: 3em;
-        padding-bottom: 2em;
+        padding-bottom: 7em;
 
         p:first-child {
             &:before {
@@ -75,73 +89,66 @@ blockquote {
         }
     }
 
-    // collapsed
-    overflow: hidden;
-    max-height: 260px;
-    cursor: pointer;
+    @media not print {
+        // collapsed
+        &.done {
+            overflow: hidden;
+            max-height: var(--minHeight);
+            cursor: pointer;    
 
-    p:last-child {
-        position: absolute;
-        bottom: 0;
-        padding: inherit;
-        width: 100%;
-        box-sizing: border-box;
-        left: 0;
-        z-index: 2;
-        text-shadow: 0 0 20px var(--green-light), 0 0 10px var(--green-light), 10px 0 5px var(--green-light), -10px 0 5px var(--green-light);
-    }
+            &:before {
+                position: absolute;
+                left: 50%;
+                white-space: nowrap;
+                top: 50%;
+                transition: opacity .3s ease-in-out;
+                z-index: 3;
+                color: var(--green);
+                transform: translate(-50%, -50%);
+                background-color: var(--green-light);
+                font-size: 1.1em;
+                font-weight: bold;
+                border: 2px solid var(--green);
+                padding: .8em 1.6em;
+                border-radius: 100px;
+            }
+        
+            &:after {
+                content: '';
+                display: block;
+                width: 100%;
+                transition: opacity .3s ease-in-out;
+                height: 100%;
+                position: absolute;
+                top: 0;
+                left: 0;
+                background: linear-gradient(150deg, rgba(235, 242, 235, 0.2), rgb(235, 242, 235) 80%), 
+                linear-gradient(rgba(235, 242, 235, 0), rgb(235, 242, 235));
+            }
+        
+            &:not(.expanded) {
+                &:hover:before {
+                    background-color: var(--green);
+                    color: var(--white);
+                }    
+            }
+        }
 
-    &:before {
-        position: absolute;
-        left: 50%;
-        white-space: nowrap;
-        top: 50%;
-        z-index: 3;
-        color: var(--green);
-        transform: translate(-50%, -50%);
-        background-color: var(--green-light);
-        font-size: 1.1em;
-        font-weight: bold;
-        // font-style: italic;
-        border: 2px solid var(--green);
-        padding: .8em 1.6em;
-        border-radius: 100px;
-    }
+        &.expanded {
+            max-height: var(--maxHeight);
 
-    &:after {
-        content: '';
-        display: block;
-        width: 100%;
-        height: 100%;
-        position: absolute;
-        top: 0;
-        left: 0;
-        background: linear-gradient(150deg, rgba(235, 242, 235, 0.2), rgb(235, 242, 235) 80%), 
-        linear-gradient(rgba(235, 242, 235, 0), rgb(235, 242, 235));
-    }
-
-    &:hover:before {
-        background-color: var(--green);
-        color: var(--white);
-    }
-
-    &.expanded {
-        max-height: none;
-
-        &:before,
-        &:after {display: none;}
-
-        p:last-child {
-            position: relative;
-            padding: 0;
+            &:before,
+            &:after { opacity: 0; }
         }
     }
 }
 
-html[lang="en"] blockquote:before {
-    content: 'Read testimonial';
-}
+@media not print {
+    html[lang="en"] blockquote.done:before {
+        content: 'Read testimonial';
+    }
 
-html[lang="nl"] blockquote:before {
-    content: 'Aanbeveling lezen';
+    html[lang="nl"] blockquote.done:before {
+        content: 'Aanbeveling lezen';
+    }
 }

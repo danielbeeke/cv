@@ -44,7 +44,7 @@ export function getStaticPaths() {
             'talks',
             'code-references'
         ]
-            .map(blockName => <div class={blockName} set:html={indexedBlocks[blockName]} />)}
+            .map(blockName => <div class={`block ${blockName}`} set:html={indexedBlocks[blockName]} />)}
     </div>
 
 </SiteLayout>

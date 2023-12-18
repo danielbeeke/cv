@@ -29,17 +29,33 @@ const { language } = Astro.params;
 <script>
 	/** @ts-ignore */
 	window.printPdf = () => {
-		document.querySelectorAll('details').forEach(detail => detail.setAttribute('open', ''))
-		document.querySelectorAll('blockquote').forEach(blockquote => blockquote.classList.add('expanded'))
 		window.print()
 	}
 
-	const blockquotes = document.querySelectorAll('blockquote')
-	for (const blockquote of blockquotes) {
-		blockquote.addEventListener('click', () => {
-			blockquote.classList.toggle('expanded')
-		})
+	const setSizes = () => {
+		document.querySelectorAll('.done').forEach(item => item.classList.remove('done'))
+		const expandables = document.querySelectorAll('.expandable,blockquote,.details')
+		for (const expandable of expandables) {
+			expandable.style = `
+				--maxHeight: ${expandable.clientHeight}px;
+				--minHeight: ${expandable.querySelector('.summary')?.clientHeight ?? 200}px;
+			`
+
+			expandable.classList.add('done')
+			expandable.classList.add('expandable')
+
+			expandable.addEventListener('click', (event) => {
+				if ((event.target as HTMLElement).closest('.expandable') === expandable) {
+					expandable.classList.toggle('expanded')
+				}
+			})
+		}
 	}
 
+	setSizes()
+
+	window.addEventListener('resize', () => {
+		setSizes()
+	})
 
 </script>
