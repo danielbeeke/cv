@@ -39,7 +39,7 @@ const { language } = Astro.params;
 			/** @ts-ignore */
 			expandable.style = `
 				--maxHeight: ${expandable.clientHeight}px;
-				--minHeight: ${expandable.querySelector('.summary')?.clientHeight ?? 200}px;
+				--minHeight: ${expandable.querySelector('.summary')?.clientHeight ?? 140}px;
 			`
 
 			expandable.classList.add('done')
