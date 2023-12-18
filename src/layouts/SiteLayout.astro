@@ -36,6 +36,7 @@ const { language } = Astro.params;
 		document.querySelectorAll('.done').forEach(item => item.classList.remove('done'))
 		const expandables = document.querySelectorAll('.expandable,blockquote,.details')
 		for (const expandable of expandables) {
+			/** @ts-ignore */
 			expandable.style = `
 				--maxHeight: ${expandable.clientHeight}px;
 				--minHeight: ${expandable.querySelector('.summary')?.clientHeight ?? 200}px;
