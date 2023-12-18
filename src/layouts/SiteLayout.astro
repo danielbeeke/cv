@@ -33,4 +33,12 @@ const { language } = Astro.params;
 		window.print()
 	}
 
+	const blockquotes = document.querySelectorAll('blockquote')
+	for (const blockquote of blockquotes) {
+		blockquote.addEventListener('click', () => {
+			blockquote.classList.toggle('expanded')
+		})
+	}
+
+
 </script>

@@ -3,9 +3,10 @@ blockquote {
     margin-top: 2em;
     padding: 1em;
     margin-left: var(--jump);
-    border-radius: 5px;
+    border-radius: 8px;
     background-color: var(--green-light);
-    
+    position: relative;
+
     p:nth-last-child(2):after,
     p:first-child:before {
         font-family: 'Times New Roman', Times, serif;
@@ -19,9 +20,10 @@ blockquote {
         position: relative;
         
         &:before {
+            z-index: 11;
             content: '“';
-            top: -.9em;
-            margin-left: -.5em;
+            top: -1em;
+            margin-left: 0;
 
         }
     }
@@ -64,5 +66,82 @@ blockquote {
     @media (min-width: 900px) {
         padding-inline: 3em;
         padding-bottom: 2em;
+
+        p:first-child {
+            &:before {
+                margin-left: -.5em;
+                top: -.9em;
+            }
+        }
     }
+
+    // collapsed
+    overflow: hidden;
+    max-height: 260px;
+    cursor: pointer;
+
+    p:last-child {
+        position: absolute;
+        bottom: 0;
+        padding: inherit;
+        width: 100%;
+        box-sizing: border-box;
+        left: 0;
+        z-index: 2;
+        text-shadow: 0 0 20px var(--green-light), 0 0 10px var(--green-light), 10px 0 5px var(--green-light), -10px 0 5px var(--green-light);
+    }
+
+    &:before {
+        position: absolute;
+        left: 50%;
+        white-space: nowrap;
+        top: 50%;
+        z-index: 3;
+        color: var(--green);
+        transform: translate(-50%, -50%);
+        background-color: var(--green-light);
+        font-size: 1.1em;
+        font-weight: bold;
+        // font-style: italic;
+        border: 2px solid var(--green);
+        padding: .8em 1.6em;
+        border-radius: 100px;
+    }
+
+    &:after {
+        content: '';
+        display: block;
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+        background: linear-gradient(150deg, rgba(235, 242, 235, 0.2), rgb(235, 242, 235) 80%), 
+        linear-gradient(rgba(235, 242, 235, 0), rgb(235, 242, 235));
+    }
+
+    &:hover:before {
+        background-color: var(--green);
+        color: var(--white);
+    }
+
+    &.expanded {
+        max-height: none;
+
+        &:before,
+        &:after {display: none;}
+
+        p:last-child {
+            position: relative;
+            padding: 0;
+        }
+    }
+}
+
+html[lang="en"] blockquote:before {
+    content: 'Read testimonial';
+}
+
+html[lang="nl"] blockquote:before {
+    content: 'Aanbeveling lezen';
 }
