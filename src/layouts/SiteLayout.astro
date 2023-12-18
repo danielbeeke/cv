@@ -30,6 +30,7 @@ const { language } = Astro.params;
 	/** @ts-ignore */
 	window.printPdf = () => {
 		document.querySelectorAll('details').forEach(detail => detail.setAttribute('open', ''))
+		document.querySelectorAll('blockquote').forEach(blockquote => blockquote.classList.add('expanded'))
 		window.print()
 	}
 
