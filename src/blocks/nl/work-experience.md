@@ -61,6 +61,14 @@ In de afgelopen 15 jaar heb ik bij verschillende bedrijven en organisaties gewer
 -   Een berekeningstool gemaakt voor de NBvT om de warmteverlies van houten panelen, deuren en ramen te tekenen en vervolgens te berekenen. Dit werd gedaan in samenwerking met iemand die alle technische details vanuit het timmermansperspectief begreep en nog een andere programmeur.
 -   Diverse design sprints gedaan, waaronder een voor een startup in de luchtvaartindustrie en een voor de belastingdienst.
 
+> Ik kan Daniël van harte aanbevelen. Technisch is hij uitzonderlijk vaardig, snel en divers. Eigenlijk beschikt hij over alle skills die je in een volwaardig ontwikkelteam zoekt, van de architectuur van een applicatie tot de details in de vormgeving. Niet alleen front-end en back-end zijn in goede handen bij Daniël, hij absorbeert ook domeinkennis van de projecten waaraan hij werkt, waardoor hij echt kan meedenken en begrijpt hoe de techniek en de praktijk het beste bij elkaar kunnen komen. Communicatief is Daniël ook erg sterk, hij brengt energie, humor en inspiratie in een team.
+>
+> Mijn carrière begon onder Daniël’s begeleiding. Ik heb een deel van mijn eigen succes te danken aan zijn goede begeleiding, omdat hij goed kon omgaan met mijn leergierigheid en die voedde door technische concepten rustig en haarfijn uit te leggen van begin tot eind. Qua zelfontplooiing heb ik er altijd veel aan gehad (en nog steeds) dat Daniël een gezonde mix toepast van constructieve feedback geven en duidelijk aangeven wanneer je op het verkeerde spoor zit.
+>
+> Samen werkten we zo’n 5 jaar bij hetzelfde bureau aan verscheidene projecten, van grote Drupal websites tot complexe JavaScript applicaties. Dat was altijd heel prettig samenwerken. Als je bij een onderdeel het gevoel had dat het technisch erg ingewikkeld ging worden, had Daniël regelmatig binnen een week een proof-of-concept draaien. Het bleef nooit bij fantaseren over next-level oplossingen, we deden het gewoon en gingen de uitdaging aan. Sindsdien hebben we nog altijd nauw contact en helpen we elkaar nog regelmatig. Wie Daniël’s volgende werkgever en collega’s ook mogen worden, jullie gaan enorm profiteren van zijn aanwezigheid en vakmanschap!
+>
+> Anoesj Sadraee, <br />collega bij Fonkel ![Anoesj Sadraee](/anoesj.jpeg)
+
 </details>
 <details><summary>
 

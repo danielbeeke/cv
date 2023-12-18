@@ -74,6 +74,14 @@ proficiency in designing and developing complex solutions.
 - Created a calculation tool for the Dutch carpentry branch to draw and then calculate the warmth loss of wooden panels, doors and windows. This was done together with a person who understood all the technical details from the carpentry perspective and one other programmer.
 - Did various design sprints, one was for a startup in the aviation industry and one for the Dutch Tax ministry.
 
+> I can highly recommend Daniel. Technically he is exceptionally skilled, fast and diverse. He actually has all the skills you look for in a full-fledged development team, from the architecture of an application to the details in the design. Not only are the front-end and back-end in good hands with Daniël, he also absorbs domain knowledge of the projects he works on, which allows him to really think along and understand how technology and practice can best come together. Daniël is also very good at communicating, he brings energy, humor and inspiration to a team.
+>
+> My career started under Daniël's guidance. I owe part of my own success to his good guidance, because he was able to deal well with my eagerness to learn and nourished it by explaining technical concepts calmly and in detail from start to finish. In terms of self-development, I have always benefited (and still do) from Daniël applying a healthy mix of giving constructive feedback and clearly indicating when you are on the wrong track.
+>
+> Together we worked at the same agency for about 5 years on various projects, from large Drupal websites to complex JavaScript applications. That was always very pleasant to work with. If you had the feeling that a part was going to be technically very complicated, Daniël regularly had a proof-of-concept running within a week. We never stopped at fantasizing about next-level solutions, we just did it and took up the challenge. Since then we have remained in close contact and help each other regularly. Whoever Daniël's next employer and colleagues may be, you will benefit enormously from his presence and craftsmanship!
+>
+> Anoesj Sadraee, <br />colleague at Fonkel ![Anoesj Sadraee](/anoesj.jpeg)
+
 </details>
 
 <details><summary>
