@@ -7,7 +7,7 @@ blockquote {
     background-color: var(--green-light);
     position: relative;
     display: block;
-    transition: max-height .3s ease-in-out 0s !important;
+    transition: max-height .3s ease-in-out 0s, opacity .3s ease-in-out 0s !important;
     padding-bottom: 8em;
 
     p:nth-last-child(2):after,
@@ -138,7 +138,7 @@ blockquote {
 
         &.expanded {
             max-height: var(--maxHeight);
-            transition: max-height .3s ease-in-out .1s !important;
+            transition: max-height .3s ease-in-out .1s,  opacity .3s ease-in-out 0s !important;
 
             &:before {
                 transition: opacity .3s ease-in-out 0s;
