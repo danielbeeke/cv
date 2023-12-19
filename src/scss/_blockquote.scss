@@ -7,7 +7,7 @@ blockquote {
     background-color: var(--green-light);
     position: relative;
     display: block;
-    transition: all .3s ease-in-out !important;
+    transition: max-height .3s ease-in-out 0s !important;
     padding-bottom: 8em;
 
     p:nth-last-child(2):after,
@@ -101,7 +101,9 @@ blockquote {
                 left: 50%;
                 white-space: nowrap;
                 top: 50%;
-                transition: opacity .3s ease-in-out;
+                transition: opacity .3s ease-in-out .3s, 
+                background-color .3s ease-in-out,
+                color .3s ease-in-out;
                 z-index: 3;
                 color: var(--green);
                 transform: translate(-50%, -50%);
@@ -117,7 +119,7 @@ blockquote {
                 content: '';
                 display: block;
                 width: 100%;
-                transition: opacity .3s ease-in-out;
+                transition: opacity .3s ease-in-out 0s;
                 height: 100%;
                 position: absolute;
                 top: 0;
@@ -136,6 +138,15 @@ blockquote {
 
         &.expanded {
             max-height: var(--maxHeight);
+            transition: max-height .3s ease-in-out .1s !important;
+
+            &:before {
+                transition: opacity .3s ease-in-out 0s;
+            }
+
+            &:after {
+                transition: opacity .3s ease-in-out .3s;
+            }
 
             &:before,
             &:after { opacity: 0; }

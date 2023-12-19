@@ -11,5 +11,5 @@ Skills ✨
 -   **Cloud:** CloudFlare, AWS, Azure
 -   **Databases:** Apache Jena, MongoDB, MariaDB, PostgreSQL, InfluxDB, SQLite
 -   **Linux:** 19 years experience (Ubuntu workstation, Debian, CentOS server-side)
--   **Various:** WebRTC, RxJS, ReadableStreams, Comunica, RDFjs, SHACL, PWA, library development, NPM and Deno module publication
+-   **Various:** WebRTC, RxJS, ReadableStreams, Comunica, RDFjs, SHACL, PWA, NPM and Deno module publication
 -   **I worked in these domains:** Web Apps with Heavy Computations and Logic, Offline Apps, Medical LMS, Data Visualizations, Web Cartography, Web hosting, Linked Data (RDF), Commerce, Digital Media
