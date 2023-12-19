@@ -41,18 +41,6 @@
         background-color: var(--green-light);
     }
 
-    // &:not(.expanded) {
-    //     transition: color .2s ease-in-out;
-
-    //     h3, em {
-    //         transition: color .2s ease-in-out;
-    //     }
-    
-    //     &:after {
-    //         transition: opacity .2s ease-in-out, color .2s ease-in-out;
-    //     }
-    // }
-
     .summary {
         user-select: none;
         display: block;
