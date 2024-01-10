@@ -47,7 +47,7 @@ designing and developing a new customer portal and back office.
 complexities of our project. Together, we successfully integrated the application with an ERP
 system, virtualization platforms and hosting control panels.
 >
-> We were a small team that required each member to wear multiple hats, and Daniel excelled in
+> We were a small team that required each member to wear multiple hats, and Daniël excelled in
 every role. His ability to grasp the intricacies of our business needs and translate them into
 designs and features for the customer portal and back office showcased his expertise.
 >
@@ -74,7 +74,7 @@ proficiency in designing and developing complex solutions.
 - Created a calculation tool for the Dutch carpentry branch to draw and then calculate the warmth loss of wooden panels, doors and windows. This was done together with a person who understood all the technical details from the carpentry perspective and one other programmer.
 - Did various design sprints, one was for a startup in the aviation industry and one for the Dutch Tax ministry.
 
-> I can highly recommend Daniel. Technically he is exceptionally skilled, fast and diverse. He actually has all the skills you look for in a full-fledged development team, from the architecture of an application to the details in the design. Not only are the front-end and back-end in good hands with Daniël, he also absorbs domain knowledge of the projects he works on, which allows him to really think along and understand how technology and practice can best come together. Daniël is also very good at communicating, he brings energy, humor and inspiration to a team.
+> I can highly recommend Daniël. Technically he is exceptionally skilled, fast and diverse. He actually has all the skills you look for in a full-fledged development team, from the architecture of an application to the details in the design. Not only are the front-end and back-end in good hands with Daniël, he also absorbs domain knowledge of the projects he works on, which allows him to really think along and understand how technology and practice can best come together. Daniël is also very good at communicating, he brings energy, humor and inspiration to a team.
 >
 > My career started under Daniël's guidance. I owe part of my own success to his good guidance, because he was able to deal well with my eagerness to learn and nourished it by explaining technical concepts calmly and in detail from start to finish. In terms of self-development, I have always benefited (and still do) from Daniël applying a healthy mix of giving constructive feedback and clearly indicating when you are on the wrong track.
 >
@@ -82,11 +82,11 @@ proficiency in designing and developing complex solutions.
 >
 > Anoesj Sadraee, <br />colleague at Fonkel ![Anoesj Sadraee](/anoesj.jpeg)
 
-> During the period from 2012 to 2018, Daniel worked as a lead developer at Fonkel. During that time he made a significant contribution not only in the products we realized for our clients, but also in the development of the company. 
+> During the period from 2012 to 2018, Daniël worked as a lead developer at Fonkel. During that time he made a significant contribution not only in the products we realized for our clients, but also in the development of the company. 
 > 
-> Daniel was a very loyal and carrying force in the team. He is what I call a creative developer, by not only programming the solution, but also making a very important contribution in conceiving and (technically) designing the solution. 
+> Daniël was a very loyal and carrying force in the team. He is what I call a creative developer, by not only programming the solution, but also making a very important contribution in conceiving and (technically) designing the solution. 
 > 
-> Often his creative contribution made a significant difference in the value delivered to the customer. Not always the solution that was requested, but certainly the solution that was needed. I highly recommend Daniel.
+> Often his creative contribution made a significant difference in the value delivered to the customer. Not always the solution that was requested, but certainly the solution that was needed. I highly recommend Daniël.
 >
 > Floris van Woudenberg, <br />Director of Fonkel ![Floris van Woudenberg](/floris.jpeg)
 
