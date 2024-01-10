@@ -62,7 +62,7 @@ proficiency in designing and developing complex solutions.
 
 <div class="details"><div class="summary">
 
-### Team Lead at _Fonkel_
+### Lead Developer at _Fonkel_
 
 *Oct 2012 - May 2018*
 
@@ -81,6 +81,15 @@ proficiency in designing and developing complex solutions.
 > Together we worked at the same agency for about 5 years on various projects, from large Drupal websites to complex JavaScript applications. That was always very pleasant to work with. If you had the feeling that a part was going to be technically very complicated, Daniël regularly had a proof-of-concept running within a week. We never stopped at fantasizing about next-level solutions, we just did it and took up the challenge. Since then we have remained in close contact and help each other regularly. Whoever Daniël's next employer and colleagues may be, you will benefit enormously from his presence and craftsmanship!
 >
 > Anoesj Sadraee, <br />colleague at Fonkel ![Anoesj Sadraee](/anoesj.jpeg)
+
+> During the period from 2012 to 2018, Daniel worked as a lead developer at Fonkel. During that time he made a significant contribution not only in the products we realized for our clients, but also in the development of the company. 
+> 
+> Daniel was a very loyal and carrying force in the team. He is what I call a creative developer, by not only programming the solution, but also making a very important contribution in conceiving and (technically) designing the solution. 
+> 
+> Often his creative contribution made a significant difference in the value delivered to the customer. Not always the solution that was requested, but certainly the solution that was needed. I highly recommend Daniel.
+>
+> Floris van Woudenberg, <br />Director of Fonkel ![Floris van Woudenberg](/floris.jpeg)
+
 
 </div>
 

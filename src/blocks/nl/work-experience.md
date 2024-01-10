@@ -40,7 +40,7 @@ In de afgelopen 15 jaar heb ik bij verschillende bedrijven en organisaties gewer
 >
 > De technische vaardigheid en innovatieve mentaliteit van Daniël speelden een belangrijke rol bij het navigeren door de complexiteit van ons project. Samen hebben we de applicatie succesvol geïntegreerd met een ERP-systeem, virtualisatieplatforms en hostingcontrolepanelen.
 >
-> We waren een klein team waarbij elk lid meerdere petten moest dragen, en Daniel blonk uit in elke rol. Zijn vermogen om de fijne kneepjes van onze zakelijke behoeften te begrijpen en deze te vertalen in ontwerpen en functies voor het klantenportaal en de backoffice was een bewijs van zijn expertise.
+> We waren een klein team waarbij elk lid meerdere petten moest dragen, en Daniël blonk uit in elke rol. Zijn vermogen om de fijne kneepjes van onze zakelijke behoeften te begrijpen en deze te vertalen in ontwerpen en functies voor het klantenportaal en de backoffice was een bewijs van zijn expertise.
 >
 > Samenwerken met Daniël was een voorrecht en ik ben dankbaar voor de kans. Zijn technisch inzicht, probleemoplossend vermogen en samenwerkingskarakter maken hem tot een onmisbare aanwinst voor elk project. Ik beveel Daniël van harte aan vanwege zijn niet aflatende toewijding en vaardigheid in het ontwerpen en ontwikkelen van complexe oplossingen.
 >
@@ -49,7 +49,7 @@ In de afgelopen 15 jaar heb ik bij verschillende bedrijven en organisaties gewer
 </div>
 <div class="details"><div class="summary">
 
-### Teamleider bij _Fonkel_
+### Lead developer bij _Fonkel_
 
 *Okt 2012 - Mei 2018*
 
@@ -68,6 +68,15 @@ In de afgelopen 15 jaar heb ik bij verschillende bedrijven en organisaties gewer
 > Samen werkten we zo’n 5 jaar bij hetzelfde bureau aan verscheidene projecten, van grote Drupal websites tot complexe JavaScript applicaties. Dat was altijd heel prettig samenwerken. Als je bij een onderdeel het gevoel had dat het technisch erg ingewikkeld ging worden, had Daniël regelmatig binnen een week een proof-of-concept draaien. Het bleef nooit bij fantaseren over next-level oplossingen, we deden het gewoon en gingen de uitdaging aan. Sindsdien hebben we nog altijd nauw contact en helpen we elkaar nog regelmatig. Wie Daniël’s volgende werkgever en collega’s ook mogen worden, jullie gaan enorm profiteren van zijn aanwezigheid en vakmanschap!
 >
 > Anoesj Sadraee, <br />collega bij Fonkel ![Anoesj Sadraee](/anoesj.jpeg)
+
+> In de periode van 2012 tot 2018 heeft Daniël als lead developer bij Fonkel gewerkt. In die tijd heeft hij een belangrijke bijdrage geleverd, niet alleen in de produkten die we voor onze klanten realiseerden, maar ook in de ontwikkeling van het bedrijf. 
+> 
+> Daniël was een zeer loyale en dragende kracht in het team. Hij is wat ik noem een creatieve developer, door niet alleen de oplossing te programmeren, maar ook een heel belangrijke bijdrage te leveren in het bedenken en (technisch) ontwerpen van de oplossing. 
+> 
+> Vaak zorgde zijn creatieve bijdrage voor een significant verschil in de waarde die de klant geleverd kreeg. Niet altijd de oplossing waarom gevraagd werd, maar wel de oplossing die nodig was. Ik beveel Daniël dan ook van harte aan.
+>
+> Floris van Woudenberg, <br />Directeur van Fonkel ![Floris van Woudenberg](/floris.jpeg)
+
 
 </div>
 <div class="details"><div class="summary">
