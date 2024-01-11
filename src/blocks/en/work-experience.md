@@ -56,7 +56,7 @@ insight, problem-solving capabilities, and collaborative nature make him an indi
 to any project. I wholeheartedly recommend Daniël for his unwavering dedication and
 proficiency in designing and developing complex solutions.
 >
-> <br /><span class="signer"><span class="company-person">Harm Jan Stam</span><span class="company-role"> team&nbsp;lead at Fundaments</span><img src="/harmjan.jpeg" /></span>
+> <br /><span class="signer"><span class="company-person">Harm Jan Stam</span><span class="company-role"> team lead Fundaments</span><img src="/harmjan.jpeg" /></span>
 
 </div>
 

@@ -44,8 +44,7 @@ In de afgelopen 15 jaar heb ik bij verschillende bedrijven en organisaties gewer
 >
 > Samenwerken met Daniël was een voorrecht en ik ben dankbaar voor de kans. Zijn technisch inzicht, probleemoplossend vermogen en samenwerkingskarakter maken hem tot een onmisbare aanwinst voor elk project. Ik beveel Daniël van harte aan vanwege zijn niet aflatende toewijding en vaardigheid in het ontwerpen en ontwikkelen van complexe oplossingen.
 >
-> <br /><span class="signer"><span class="company-person">Harm Jan Stam</span><span class="company-role"> teamleider bij Fundaments</span>
-<img src="/harmjan.jpeg" />
+> <br /><span class="signer"><span class="company-person">Harm Jan Stam</span><span class="company-role"> teamleider bij Fundaments</span><img src="/harmjan.jpeg" />
 </span>
 
 </div>

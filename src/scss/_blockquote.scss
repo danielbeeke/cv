@@ -23,7 +23,7 @@ blockquote {
     p:first-child {
         margin-top: .8em;
         position: relative;
-        
+
         &:before {
             z-index: 0;
             content: '“';
@@ -48,15 +48,6 @@ blockquote {
             content: '”';
         }
     }
-
-    @media (min-width: 900px) {
-        padding-inline: 3em;
-
-        p:first-child {
-            padding-top: 1.8em;
-        }
-    }
-
 
     @media not print {
         // collapsed
@@ -158,6 +149,7 @@ blockquote:not(.expanded) {
 
     span {
         clear: both;
+        text-align: right;
         float: right;
     }
 
@@ -179,5 +171,50 @@ blockquote:not(.expanded) {
 
     html[lang="nl"] blockquote.done p:last-child:before {
         content: 'Aanbeveling lezen';
+    }
+}
+
+    
+@media (min-width: 900px) {
+    blockquote {
+        padding-inline: 2em;
+
+        &.done {
+            max-height: 68px;
+
+            &.expanded {
+                padding-bottom: 8em;
+            }
+
+            p:first-child {
+                padding-top: .8em;
+            }   
+    
+            p:last-child {
+                display: flex;
+                justify-content: center;
+                align-content: space-between;
+                width: calc(100% - 4em);
+                right: 2em;
+    
+                &:before {
+                    flex: auto 1 1;
+                    width: auto;
+                    padding: .6em .3em;
+                }
+    
+                br {
+                    display: none;
+                }
+    
+                .signer {
+                    flex: 50% 1 1;
+                    line-height: 1.5;
+                    transform: translateY(1px);
+                    margin-top: 0;
+                    margin-left: 2em;
+                }
+            }
+        }
     }
 }
