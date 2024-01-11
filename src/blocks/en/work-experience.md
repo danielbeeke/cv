@@ -56,7 +56,7 @@ insight, problem-solving capabilities, and collaborative nature make him an indi
 to any project. I wholeheartedly recommend Daniël for his unwavering dedication and
 proficiency in designing and developing complex solutions.
 >
-> Harm Jan Stam, <br />team lead at Fundaments ![Harm Jan Stam](/harmjan.jpeg)
+> <br /><span class="signer"><span class="company-person">Harm Jan Stam</span><span class="company-role"> team&nbsp;lead at Fundaments</span><img src="/harmjan.jpeg" /></span>
 
 </div>
 
@@ -80,7 +80,7 @@ proficiency in designing and developing complex solutions.
 >
 > Together we worked at the same agency for about 5 years on various projects, from large Drupal websites to complex JavaScript applications. That was always very pleasant to work with. If you had the feeling that a part was going to be technically very complicated, Daniël regularly had a proof-of-concept running within a week. We never stopped at fantasizing about next-level solutions, we just did it and took up the challenge. Since then we have remained in close contact and help each other regularly. Whoever Daniël's next employer and colleagues may be, you will benefit enormously from his presence and craftsmanship!
 >
-> Anoesj Sadraee, <br />colleague at Fonkel ![Anoesj Sadraee](/anoesj.jpeg)
+> <br /><span class="signer"><span class="company-person">Anoesj Sadraee</span><span class="company-role"> colleague at Fonkel</span><img src="/anoesj.jpeg" /></span>
 
 > During the period from 2012 to 2018, Daniël worked as a lead developer at Fonkel. During that time he made a significant contribution not only in the products we realized for our clients, but also in the development of the company. 
 > 
@@ -88,7 +88,7 @@ proficiency in designing and developing complex solutions.
 > 
 > Often his creative contribution made a significant difference in the value delivered to the customer. Not always the solution that was requested, but certainly the solution that was needed. I highly recommend Daniël.
 >
-> Floris van Woudenberg, <br />Director of Fonkel ![Floris van Woudenberg](/floris.jpeg)
+> <br /><span class="signer"><span class="company-person">Floris van Woudenberg</span><span class="company-role"> Director of Fonkel</span><img src="/floris.jpeg" /></span>
 
 
 </div>

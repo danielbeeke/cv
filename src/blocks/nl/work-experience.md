@@ -44,7 +44,9 @@ In de afgelopen 15 jaar heb ik bij verschillende bedrijven en organisaties gewer
 >
 > Samenwerken met Daniël was een voorrecht en ik ben dankbaar voor de kans. Zijn technisch inzicht, probleemoplossend vermogen en samenwerkingskarakter maken hem tot een onmisbare aanwinst voor elk project. Ik beveel Daniël van harte aan vanwege zijn niet aflatende toewijding en vaardigheid in het ontwerpen en ontwikkelen van complexe oplossingen.
 >
-> Harm Jan Stam, <br />teamleider bij Fundaments ![Harm Jan Stam](/harmjan.jpeg)
+> <br /><span class="signer"><span class="company-person">Harm Jan Stam</span><span class="company-role"> teamleider bij Fundaments</span>
+<img src="/harmjan.jpeg" />
+</span>
 
 </div>
 <div class="details"><div class="summary">
@@ -67,7 +69,7 @@ In de afgelopen 15 jaar heb ik bij verschillende bedrijven en organisaties gewer
 >
 > Samen werkten we zo’n 5 jaar bij hetzelfde bureau aan verscheidene projecten, van grote Drupal websites tot complexe JavaScript applicaties. Dat was altijd heel prettig samenwerken. Als je bij een onderdeel het gevoel had dat het technisch erg ingewikkeld ging worden, had Daniël regelmatig binnen een week een proof-of-concept draaien. Het bleef nooit bij fantaseren over next-level oplossingen, we deden het gewoon en gingen de uitdaging aan. Sindsdien hebben we nog altijd nauw contact en helpen we elkaar nog regelmatig. Wie Daniël’s volgende werkgever en collega’s ook mogen worden, jullie gaan enorm profiteren van zijn aanwezigheid en vakmanschap!
 >
-> Anoesj Sadraee, <br />collega bij Fonkel ![Anoesj Sadraee](/anoesj.jpeg)
+> <br /><span class="signer"><span class="company-person">Anoesj Sadraee</span><span class="company-role"> collega bij Fonkel</span><img src="/anoesj.jpeg" /></span>
 
 > In de periode van 2012 tot 2018 heeft Daniël als lead developer bij Fonkel gewerkt. In die tijd heeft hij een belangrijke bijdrage geleverd, niet alleen in de produkten die we voor onze klanten realiseerden, maar ook in de ontwikkeling van het bedrijf. 
 > 
@@ -75,7 +77,7 @@ In de afgelopen 15 jaar heb ik bij verschillende bedrijven en organisaties gewer
 > 
 > Vaak zorgde zijn creatieve bijdrage voor een significant verschil in de waarde die de klant geleverd kreeg. Niet altijd de oplossing waarom gevraagd werd, maar wel de oplossing die nodig was. Ik beveel Daniël dan ook van harte aan.
 >
-> Floris van Woudenberg, <br />Directeur van Fonkel ![Floris van Woudenberg](/floris.jpeg)
+> <br /><span class="signer"><span class="company-person">Floris van Woudenberg</span><span class="company-role"> Directeur van Fonkel</span><img src="/floris.jpeg" /></span>
 
 
 </div>
